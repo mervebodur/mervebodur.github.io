@@ -1,0 +1,19 @@
+# main links links
+main:    
+  - title: "CV"
+    url: https://AustinLBuchanan.github.io/files/cv.pdf
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Students"
+    url: /students/    
+    
+  - title: "Links"
+    url: /links/
+        
+  - title: "OR Redistricting Resources"
+    url: /OR-redistricting-resources/
+
+  - title: "Undergrad Redistricting Prize"
+    url: /undergrad-redistricting-prize/
