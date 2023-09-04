@@ -15,4 +15,4 @@ redirect_from:
 - B.S., Industrial Engineering, Bogazici University, 2011
 - B.A., Mathematics, Bogazici University, 2011
 
-Email: last-name@okstate.edu
+Email: 
