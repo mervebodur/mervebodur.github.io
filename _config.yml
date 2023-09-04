@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Austin Buchanan"
+title                    : "Merve Bodur"
 title_separator          : "-"
-name                     : &name "Austin Buchanan"
-description              : &description "Associate Professor of Industrial Engineering & Management at Oklahoma State University"
-url                      : https://AustinLBuchanan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Merve Bodur"
+description              : &description "page description"
+url                      : https://meurevine.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "AustinLBuchanan/AustinLBuchanan.github.io"
+repository               : "meurevine/meurevine.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Austin Buchanan (he/him/his)"
+  name             : "Merve Bodur"
   avatar           : "profile.png"
-  bio              : "Associate Professor"
-  location         : "Stillwater, OK"
-  employer         : "Oklahoma State University"
+  bio              : "MB"
+  location         : "Toronto"
+  employer         : "Toronto"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=2Jhj9SIAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=JlWdyYwAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Austin-Buchanan"
+  researchgate     :  "https://www.researchgate.net/profile/Merve-Bodur"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "AustinLBuchanan"
+  github           : "mervebodur"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "austin-buchanan-a988a721"
-  orcid            : "http://orcid.org/0000-0003-2999-9666"
+  linkedin         : #"meurevine"
+  orcid            : #"http://orcid.org/0000-0003-..."
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "AustinLBuchanan"
+  twitter          : "meurevine"
   vine             :
   weibo            :
   xing             :
