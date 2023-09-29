@@ -5,11 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-### Research Interests
+## Research Interests
 - *Methodologies*: Integer Programming, Stochastic Programming, Robust Optimization, Dynamic Programming, Multiobjective Optimization, Machine Learning
 - *Application Areas*: Decision Making Under Uncertainty, Healthcare, Transportation, Telecommunication, Power Systems, Network Interdiction, Service Systems Staffing and Scheduling, Networks
 
-### Preprints
+## Preprints
 1. **Markov Chain-based Policies for Multi-stage Stochastic Integer Linear Programming with an Application to Disaster Relief Logistics** [[link]](https://arxiv.org/pdf/2207.14779)\
 M.P. Castro, M. Bodur, and Y. Song (2023)
 1. **Two-stage and Lagrangian Dual Decision Rules for Multistage Adaptive Robust Optimization** [[link]](https://arxiv.org/pdf/2305.06190)\
@@ -34,7 +34,7 @@ Z. Ansarilari, M. Bodur, and A. Shalaby (2022)
 K. Mousavi, M. Bodur, M. Cevik, and M.J. Roorda (2021)
 
 
-### Journal Papers
+## Journal Papers
 1. **Multistage stochastic fractionated intensity modulated radiation therapy planning** [[link]](https://doi.org/10.1016/j.cor.2023.106371)\
 M. Bodur , M. Cevik, A. Cire, M. Ruschin, J. Wang\
 *Computers and Operations Research* (2023)
@@ -118,7 +118,7 @@ M. Bodur, T. Ekim, and Z. C. Taşkın\
 *Networks* (2013)
 
 
-### Conference Publications
+## Conference Publications
 1.  **Neur2SP: Neural Two-Stage Stochastic Programming**\
 J. Dumouchelle*, R. Patel*, E.B. Khalil, and M. Bodur\
 *Proceedings of the 36th Annual Conference on Advances in Neural Information Processing Systems (NeurIPS)* (2022)
@@ -132,7 +132,7 @@ Z. Ansarilari, M. M. Nesheli, M. Bodur, A. Shalaby, and S. Srikukenthiran\
 Z. Ansarilari, M. M. Nesheli, S. Srikukenthiran, M. Bodur, and A. Shalaby\
 *CD Proceedings of the 14th Conference on Advanced Systems for Public Transport* (2018)
 
-### Data and Online Supplements
+## Data and Online Supplements
 . Data for paper "Strenghtened Benders Cuts for Stochastic Integer Programs with Continuous Recourse", by Bodur, Dash, Gunluk and Luedtke, 2017: [[STOCHIPCUTS]](https://drive.google.com/file/d/1a9NGWfOfBntu35XMyHa00lKy9UjbVvx5/view?usp=sharing)
 . Data for paper "Integer Programming Formulations for Minimum Deficiency Interval Coloring", by Bodur and Luedtke, 2018: [[MINDEF]](https://drive.google.com/file/d/1SAKKlcJ2Q-YOFBioQex_O2fl1yCFPuSi/view?usp=sharing)
 . Data for paper "Integer Programming, Constraint Programming, and Hybrid Decomposition Approaches to Discretizable Distance Geometry Problems", by MacNeil and Bodur, 2019: [[MINDOUBLE]](https://drive.google.com/file/d/1sWqqJ8y7bRsfYBCTr0Lz6r82VDQEOS7m/view?usp=sharing)
