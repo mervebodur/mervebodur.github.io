@@ -146,7 +146,7 @@ Z. Ansarilari, M. M. Nesheli, S. Srikukenthiran, M. Bodur, and A. Shalaby\
   - Haoyuan Xue, Ph.D. student, University of Toronto
   - Jilin Song, Ph.D. student, University of Toronto (co-supervisor: Prof. Amer Shalaby)
   - Daniel Deza, Senior undergrad student, University of Toronto 
-  - Arash Dehghan-Kooshkghazi, Ph.D. student, Toronto Metropolitan University (co-supervisor: Prof. Mucahit Cevik)
+  - Arash Dehghan, Ph.D. student, Toronto Metropolitan University (co-supervisor: Prof. Mucahit Cevik)
 
 - *Former supervisees*:
   - Postdoctoral fellows: Hamed Pouya (2019-2020), [Margarita Castro](https://sites.google.com/view/margaritacastro) (2020-2021), Oylum Seker (2019-2022)
