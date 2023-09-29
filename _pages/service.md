@@ -8,7 +8,7 @@ author_profile: true
 
 
 ## Editorial Service
-- Associate Editor: [INFOR](https://www.tandfonline.com/journals/tinf20) 2021 - present
+- Associate Editor, [*INFOR*](https://www.tandfonline.com/journals/tinf20), 2021 - present
 - Referee: Operations Research, Management Science, Mathematical Programming, Mathematical Programming Computation, INFORMS Journal on Computing, Mathematics of Operations Research, Transportation Science, Production and Operations Management, European Journal of Operational Research, IISE Transactions, INFORMS Journal on Optimization, and others.
 
 ## Conferences
