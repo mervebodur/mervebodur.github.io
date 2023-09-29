@@ -119,7 +119,7 @@ M. Bodur, T. Ekim, and Z. C. Taşkın\
 
 
 ## Conference Publications
-1.  **Neur2SP: Neural Two-Stage Stochastic Programming**\
+1.  **Neur2SP: Neural Two-Stage Stochastic Programming** [[link]](https://proceedings.neurips.cc/paper_files/paper/2022/file/9793671e4be9858a69a32545204d59d1-Paper-Conference.pdf)\
 J. Dumouchelle*, R. Patel*, E.B. Khalil, and M. Bodur\
 *Proceedings of the 36th Annual Conference on Advances in Neural Information Processing Systems (NeurIPS)* (2022)
 1. **Time series sampling for probabilistic forecasting** [[link]](https://dl.acm.org/doi/abs/10.5555/3432601.3432621)\
