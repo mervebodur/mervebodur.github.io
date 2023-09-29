@@ -149,3 +149,6 @@ Z. Ansarilari, M. M. Nesheli, S. Srikukenthiran, M. Bodur, and A. Shalaby\
   - Arash Dehghan-Kooshkghazi, Ph.D. student, TMU (co-supervisor: Prof. Mucahit Cevik)
 
 - *Former supervisees*:
+  - Postdoctoral fellows: Hamed Pouya (2019-2020), [[Margarita Castro]](https://sites.google.com/view/margaritacastro) (2020-2021), Oylum Seker (2019-2022)
+
+
