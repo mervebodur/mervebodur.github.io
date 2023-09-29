@@ -59,6 +59,9 @@ M. Anderson, M. Bodur, S. Rathwell, and V. Sarhangian\
 1. **Stochastic RWA and Lightpath Rerouting in WDM Networks**\
 M. Daryalal, and M. Bodur\
 *INFORMS Journal on Computing* (2022)
+1. **Generation Expansion Planning with Revenue Adequacy Constraints** [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0305054822000363)\
+C. Guo, M. Bodur, and D. Papageorgiou\
+*Computers and Operations Research* (2022)
 1. **Transfer Time Optimization in Public Transit Networks: Assessment of Alternative Models** [[link]](https://www.tandfonline.com/doi/full/10.1080/23249935.2022.2056655)\
 Z. Ansarilari, M.M. Nesheli, M. Bodur, and A. Shalaby\
 *Transportmetrica A: Transport Science* (2022)
