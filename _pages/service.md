@@ -24,4 +24,7 @@ author_profile: true
 - Program committee member, *Canadian Operational Research Society (CORS) 62th Annual Conference*, 2021
 
 ## Other Professional Service
+- Committee member, *INFORMS Optimization Society Student Paper Prize*, 2023
 - Committee member, *INFORMS Computing Society Student Paper Prize*, 2021
+- Judge, *INFORMS Poster Competition*, 2021
+- Reviewer, *CORS Open Student Paper Competition*, 2021 & 2022
