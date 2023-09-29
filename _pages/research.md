@@ -151,7 +151,10 @@ Z. Ansarilari, M. M. Nesheli, S. Srikukenthiran, M. Bodur, and A. Shalaby\
 - *Former supervisees*:
   - Postdoctoral fellows: Hamed Pouya (2019-2020), [Margarita Castro](https://sites.google.com/view/margaritacastro) (2020-2021), Oylum Seker (2019-2022)
   - Ph.D. students: Lizeth Carolina Riascos Alvarez (co-supervisor: Prof. Dionne Aleman), [Ian Zhu](https://www.ianyzhu.com/) (co-supervisor: Prof. Timothy Chan), Zahra Ansarilari (co-supervisor: Prof. Amer Shalaby), [Maryam Daryalal](https://www.maryamdaryalal.com/), Kianoush Mousavi (co-supervisor: Prof. Matthew J. Roorda), [Cheng Guo](https://chengg04.github.io/), Narges Sereshti
-  - M.A.Sc. students: 
+  - M.A.Sc. students: Neda Tanoumand (co-supervisor: Prof. Joe Naoum-Sawaya), Manion Anderson (co-supervisor: Prof. Vahid Sarhangian), Juyoung Wang (co-supervisor: Prof. Mucahit Cevik), Moira MacNeil, Stefana Filipova (co-supervisor: Prof. Chris Beck)
+  - Senior undergraduate students: Lorna Licollari, Haoyuan Xue, Anna Deza
+
+
 
 
 
