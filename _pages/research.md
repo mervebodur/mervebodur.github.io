@@ -19,7 +19,7 @@ N. Tanoumand, M. Bodur, and J. Naoum-Sawaya (2023)
 1. **Copositive Duality for Discrete Energy Markets** [[link]](https://optimization-online.org/wp-content/uploads/2021/01/COPDualityApp-1.pdf)\
 C. Guo, M. Bodur, and J.A. Taylor (2023)
 1. **An Enhanced Approximate Dynamic Programming Approach to On-demand Ride Pooling** [[link]](https://arxiv.org/pdf/2305.12028.pdf)\
-A. Dehghan-Kooshkghazi*, M. Cevik, and M. Bodur (2023)
+A. Dehghan-Kooshkghazi, M. Cevik, and M. Bodur (2023)
 1. **A Feasibility Look to Two-stage Robust Optimization in Kidney Exchange** [[link]](https://arxiv.org/pdf/2211.09242.pdf)\
 C. Riascos, M. Bodur, and D. Aleman (2023)
 1. **Stochastic Dynamic Lot-sizing with Supplier-Driven Substitution and Service Level Constraints** [[link]](https://optimization-online.org/2023/01/stochastic-dynamic-lot-sizing-with-supplier-driven-substitution-and-service-level-constraints/)\
@@ -35,14 +35,29 @@ K. Mousavi, M. Bodur, M. Cevik, and M.J. Roorda (2021)
 
 
 ### Journal Papers
-1. **Multistage stochastic fractionated intensity modulated radiation therapy planning**\
+1. **Multistage stochastic fractionated intensity modulated radiation therapy planning** [[link]](https://doi.org/10.1016/j.cor.2023.106371)\
 M. Bodur , M. Cevik, A. Cire, M. Ruschin, J. Wang\
 *Computers and Operations Research* (2023)
-1. **A Branch-and-Price Algorithm Enhanced by Decision Diagrams for the Kidney Exchange Problem**\
+1. **A Branch-and-Price Algorithm Enhanced by Decision Diagrams for the Kidney Exchange Problem** [[link]](http://www.optimization-online.org/DB_FILE/2020/09/8041.pdf)\
 C. Riascos, M. Bodur, and D. Aleman\
 *Manufacturing & Service Operations Management* (2023)
+1. **Routing and Wavelength Assignment with Protection: A Quadratic Unconstrained Binary Optimization Approach Enabled by Digital Annealer Technology** [[link]](https://www.tandfonline.com/doi/pdf/10.1080/24725854.2023.2193835)\
+O. Şeker, M. Bodur, and H. Pouya\
+*IISE Transactions* (2023)
 1. **Multiobjective optimization approaches for sector duration optimization problem in radiosurgery** [[link]](https://arxiv.org/pdf/2104.13878.pdf)\
 O. Seker, M. Cevik, M. Bodur, Y. Lee, M. Ruschin\
+*INFORMS Journal on Computing* (2022)
+1. **Lagrangian Dual Decision Rules for Multistage Stochastic Mixed Integer Programming** [[link]](https://pubsonline.informs.org/doi/full/10.1287/opre.2022.2366)\
+M. Daryalal, M. Bodur, and J. Luedtke\
+*Operations Research* (2022)
+1. **Digital Annealer for Quadratic Unconstrained Binary Optimization: A Comparative Performance Analysis** [[link]](https://doi.org/10.1016/j.asoc.2022.109367)\
+O. Şeker, N. Tanoumand*, and M. Bodur\
+*Applied Soft Computing* (2022)
+1. **Optimization Helps Scheduling Nursing Staff at the Long-Term Care Homes of the City of Toronto** [[link]](https://pubsonline.informs.org/doi/full/10.1287/inte.2022.1132)\
+M. Anderson, M. Bodur, S. Rathwell**, and V. Sarhangian\
+*INFORMS Journal of Applied Analytics* (2022)
+1. **Stochastic RWA and Lightpath Rerouting in WDM Networks**\
+M. Daryalal, and M. Bodur\
 *INFORMS Journal on Computing* (2022)
 1. **On the impact of deep learning-based time-series forecasts on multistage stochastic programming policies**\
 J. Wang, M. Cevik, M. Bodur\
