@@ -133,8 +133,8 @@ Z. Ansarilari, M. M. Nesheli, S. Srikukenthiran, M. Bodur, and A. Shalaby\
 *CD Proceedings of the 14th Conference on Advanced Systems for Public Transport* (2018)
 
 ## Data and Online Supplements
-. Data for paper "Strenghtened Benders Cuts for Stochastic Integer Programs with Continuous Recourse", by Bodur, Dash, Gunluk and Luedtke, 2017: [[STOCHIPCUTS]](https://drive.google.com/file/d/1a9NGWfOfBntu35XMyHa00lKy9UjbVvx5/view?usp=sharing)
-. Data for paper "Integer Programming Formulations for Minimum Deficiency Interval Coloring", by Bodur and Luedtke, 2018: [[MINDEF]](https://drive.google.com/file/d/1SAKKlcJ2Q-YOFBioQex_O2fl1yCFPuSi/view?usp=sharing)
-. Data for paper "Integer Programming, Constraint Programming, and Hybrid Decomposition Approaches to Discretizable Distance Geometry Problems", by MacNeil and Bodur, 2019: [[MINDOUBLE]](https://drive.google.com/file/d/1sWqqJ8y7bRsfYBCTr0Lz6r82VDQEOS7m/view?usp=sharing)
-. Data for paper "Constraint Programming Approaches to the Discretizable Molecular Distance Geometry Problem", by MacNeil and Bodur, 2019: [[DMDGP]](https://drive.google.com/file/d/14mEpibWLxsygpkKqPRyj_uYNzRb3NHmk/view?usp=sharing)
-. Data for paper "Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating Room Scheduling", by Guo, Bodur, Aleman and Urbach, 2020: [[SDORS]](https://drive.google.com/file/d/1FHQ4dmK-fmDwzv6-mwUpLEEtgUHkf1wq/view?usp=sharing)
+- Data for paper "Strenghtened Benders Cuts for Stochastic Integer Programs with Continuous Recourse", by Bodur, Dash, Gunluk and Luedtke, 2017: [[STOCHIPCUTS]](https://drive.google.com/file/d/1a9NGWfOfBntu35XMyHa00lKy9UjbVvx5/view?usp=sharing)
+- Data for paper "Integer Programming Formulations for Minimum Deficiency Interval Coloring", by Bodur and Luedtke, 2018: [[MINDEF]](https://drive.google.com/file/d/1SAKKlcJ2Q-YOFBioQex_O2fl1yCFPuSi/view?usp=sharing)
+- Data for paper "Integer Programming, Constraint Programming, and Hybrid Decomposition Approaches to Discretizable Distance Geometry Problems", by MacNeil and Bodur, 2019: [[MINDOUBLE]](https://drive.google.com/file/d/1sWqqJ8y7bRsfYBCTr0Lz6r82VDQEOS7m/view?usp=sharing)
+- Data for paper "Constraint Programming Approaches to the Discretizable Molecular Distance Geometry Problem", by MacNeil and Bodur, 2019: [[DMDGP]](https://drive.google.com/file/d/14mEpibWLxsygpkKqPRyj_uYNzRb3NHmk/view?usp=sharing)
+- Data for paper "Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating Room Scheduling", by Guo, Bodur, Aleman and Urbach, 2020: [[SDORS]](https://drive.google.com/file/d/1FHQ4dmK-fmDwzv6-mwUpLEEtgUHkf1wq/view?usp=sharing)
