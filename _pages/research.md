@@ -138,3 +138,14 @@ Z. Ansarilari, M. M. Nesheli, S. Srikukenthiran, M. Bodur, and A. Shalaby\
 - Data for paper "Integer Programming, Constraint Programming, and Hybrid Decomposition Approaches to Discretizable Distance Geometry Problems", by MacNeil and Bodur, 2019: [[MINDOUBLE]](https://drive.google.com/file/d/1sWqqJ8y7bRsfYBCTr0Lz6r82VDQEOS7m/view?usp=sharing)
 - Data for paper "Constraint Programming Approaches to the Discretizable Molecular Distance Geometry Problem", by MacNeil and Bodur, 2019: [[DMDGP]](https://drive.google.com/file/d/14mEpibWLxsygpkKqPRyj_uYNzRb3NHmk/view?usp=sharing)
 - Data for paper "Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating Room Scheduling", by Guo, Bodur, Aleman and Urbach, 2020: [[SDORS]](https://drive.google.com/file/d/1FHQ4dmK-fmDwzv6-mwUpLEEtgUHkf1wq/view?usp=sharing)
+
+## Supervision
+- *Current supervisees*:
+  - Moira MacNeil, Ph.D. student, UofT (co-supervisor Prof. Antoine Deza)
+  - Zoha Sherkat-Masoumi, Ph.D. student, UofT
+  - Haoyuan Xue, Ph.D. student, UofT
+  - Jilin Song, Ph.D. student, UofT (co-supervisor: Prof. Amer Shalaby)
+  - Daniel Deza, Senior undergrad student, UofT 
+  - Arash Dehghan-Kooshkghazi, Ph.D. student, TMU (co-supervisor: Prof. Mucahit Cevik)
+
+- *Former supervisees*:
