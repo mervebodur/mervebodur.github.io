@@ -56,7 +56,7 @@ O. Şeker, N. Tanoumand, and M. Bodur\
 1. **Optimization Helps Scheduling Nursing Staff at the Long-Term Care Homes of the City of Toronto** [[link]](https://pubsonline.informs.org/doi/full/10.1287/inte.2022.1132)\
 M. Anderson, M. Bodur, S. Rathwell, and V. Sarhangian\
 *INFORMS Journal of Applied Analytics* (2022)
-1. **Stochastic RWA and Lightpath Rerouting in WDM Networks**\
+1. **Stochastic RWA and Lightpath Rerouting in WDM Networks** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1179)\
 M. Daryalal, and M. Bodur\
 *INFORMS Journal on Computing* (2022)
 1. **Generation Expansion Planning with Revenue Adequacy Constraints** [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0305054822000363)\
@@ -149,10 +149,10 @@ Z. Ansarilari, M. M. Nesheli, S. Srikukenthiran, M. Bodur, and A. Shalaby\
   - Arash Dehghan, Ph.D. student, Toronto Metropolitan University (co-supervisor: Prof. Mucahit Cevik)
 
 - *Former supervisees*:
-  - Postdoctoral fellows: Hamed Pouya (2019-2020), [Margarita Castro](https://sites.google.com/view/margaritacastro) (2020-2021), Oylum Seker (2019-2022)
-  - Ph.D. students: Lizeth Carolina Riascos Alvarez (co-supervisor: Prof. Dionne Aleman), [Ian Zhu](https://www.ianyzhu.com/) (co-supervisor: Prof. Timothy Chan), Zahra Ansarilari (co-supervisor: Prof. Amer Shalaby), [Maryam Daryalal](https://www.maryamdaryalal.com/), Kianoush Mousavi (co-supervisor: Prof. Matthew J. Roorda), [Cheng Guo](https://chengg04.github.io/), Narges Sereshti (visiting PhD student)
-  - M.A.Sc. students: Neda Tanoumand (co-supervisor: Prof. Joe Naoum-Sawaya), Manion Anderson (co-supervisor: Prof. Vahid Sarhangian), Juyoung Wang (co-supervisor: Prof. Mucahit Cevik), Moira MacNeil, Stefana Filipova (co-supervisor: Prof. Chris Beck)
-  - Senior undergraduate students: Lorna Licollari, Haoyuan Xue, Anna Deza
+  - Postdoctoral fellows (3): Hamed Pouya (2019-2020), [Margarita Castro](https://sites.google.com/view/margaritacastro) (2020-2021), Oylum Seker (2019-2022)
+  - Ph.D. students (6 graduated, 1 visitor): Lizeth Carolina Riascos Alvarez (co-supervisor: Prof. Dionne Aleman), [Ian Zhu](https://www.ianyzhu.com/) (co-supervisor: Prof. Timothy Chan), Zahra Ansarilari (co-supervisor: Prof. Amer Shalaby), [Maryam Daryalal](https://www.maryamdaryalal.com/), Kianoush Mousavi (co-supervisor: Prof. Matthew J. Roorda), [Cheng Guo](https://chengg04.github.io/), Narges Sereshti (visiting PhD student)
+  - M.A.Sc. students (5 graduated): Neda Tanoumand (co-supervisor: Prof. Joe Naoum-Sawaya), Manion Anderson (co-supervisor: Prof. Vahid Sarhangian), Juyoung Wang (co-supervisor: Prof. Mucahit Cevik), Moira MacNeil, Stefana Filipova (co-supervisor: Prof. Chris Beck)
+  - Senior undergraduate students (3 graduated): Lorna Licollari, Haoyuan Xue, Anna Deza
 
 
 
