@@ -150,9 +150,9 @@ Z. Ansarilari, M. M. Nesheli, S. Srikukenthiran, M. Bodur, and A. Shalaby\
 
 - *Former supervisees*:
   - Postdoctoral fellows (3): Hamed Pouya (2019-2020), [Margarita Castro](https://sites.google.com/view/margaritacastro) (2020-2021), Oylum Seker (2019-2022)
-  - Ph.D. students (6 graduated, 1 visitor): Lizeth Carolina Riascos Alvarez (co-supervisor: Prof. Dionne Aleman), [Ian Zhu](https://www.ianyzhu.com/) (co-supervisor: Prof. Timothy Chan), Zahra Ansarilari (co-supervisor: Prof. Amer Shalaby), [Maryam Daryalal](https://www.maryamdaryalal.com/), Kianoush Mousavi (co-supervisor: Prof. Matthew J. Roorda), [Cheng Guo](https://chengg04.github.io/), Narges Sereshti (visiting PhD student)
-  - M.A.Sc. students (5 graduated): Neda Tanoumand (co-supervisor: Prof. Joe Naoum-Sawaya), Manion Anderson (co-supervisor: Prof. Vahid Sarhangian), Juyoung Wang (co-supervisor: Prof. Mucahit Cevik), Moira MacNeil, Stefana Filipova (co-supervisor: Prof. Chris Beck)
-  - Senior undergraduate students (3 graduated): Lorna Licollari, Haoyuan Xue, Anna Deza
+  - Ph.D. students (and graduation years): Lizeth Carolina Riascos Alvarez (2023, co-supervisor: Prof. Dionne Aleman), [Ian Zhu](https://www.ianyzhu.com/) (2023, co-supervisor: Prof. Timothy Chan), Zahra Ansarilari (2022, co-supervisor: Prof. Amer Shalaby), [Maryam Daryalal](https://www.maryamdaryalal.com/) (2022), Kianoush Mousavi (2022, co-supervisor: Prof. Matthew J. Roorda), [Cheng Guo](https://chengg04.github.io/) (2021), Narges Sereshti (2022, visiting PhD student)
+  - M.A.Sc. students (and graduation years): Neda Tanoumand (2022, co-supervisor: Prof. Joe Naoum-Sawaya), Manion Anderson (2021, co-supervisor: Prof. Vahid Sarhangian), Juyoung Wang (2022, co-supervisor: Prof. Mucahit Cevik), Moira MacNeil (2020), Stefana Filipova (2019, co-supervisor: Prof. Chris Beck)
+  - Senior undergraduate students  (and graduation years): Lorna Licollari (2023), Haoyuan Xue (2022), Anna Deza (2020)
 
 
 
