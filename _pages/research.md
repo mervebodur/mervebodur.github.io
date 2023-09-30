@@ -19,7 +19,7 @@ N. Tanoumand, M. Bodur, and J. Naoum-Sawaya (2023)
 1. **Copositive Duality for Discrete Energy Markets** [[link]](https://optimization-online.org/wp-content/uploads/2021/01/COPDualityApp-1.pdf)\
 C. Guo, M. Bodur, and J.A. Taylor (2023)
 1. **An Enhanced Approximate Dynamic Programming Approach to On-demand Ride Pooling** [[link]](https://arxiv.org/pdf/2305.12028.pdf)\
-A. Dehghan-Kooshkghazi, M. Cevik, and M. Bodur (2023)
+A. Dehghan, M. Cevik, and M. Bodur (2023)
 1. **A Feasibility Look to Two-stage Robust Optimization in Kidney Exchange** [[link]](https://arxiv.org/pdf/2211.09242.pdf)\
 C. Riascos, M. Bodur, and D. Aleman (2023)
 1. **Stochastic Dynamic Lot-sizing with Supplier-Driven Substitution and Service Level Constraints** [[link]](https://optimization-online.org/2023/01/stochastic-dynamic-lot-sizing-with-supplier-driven-substitution-and-service-level-constraints/)\
@@ -149,7 +149,7 @@ Z. Ansarilari, M. M. Nesheli, S. Srikukenthiran, M. Bodur, and A. Shalaby\
   - Arash Dehghan, Ph.D. student, Toronto Metropolitan University (co-supervisor: Prof. Mucahit Cevik)
 
 - *Former supervisees*:
-  - Postdoctoral fellows (3): Hamed Pouya (2019-2020), [Margarita Castro](https://sites.google.com/view/margaritacastro) (2020-2021), Oylum Seker (2019-2022)
+  - Postdoctoral fellows: Hamed Pouya (2019-2020), [Margarita Castro](https://sites.google.com/view/margaritacastro) (2020-2021), Oylum Seker (2019-2022)
   - Ph.D. students (and graduation years): Lizeth Carolina Riascos Alvarez (2023, co-supervisor: Prof. Dionne Aleman), [Ian Zhu](https://www.ianyzhu.com/) (2023, co-supervisor: Prof. Timothy Chan), Zahra Ansarilari (2022, co-supervisor: Prof. Amer Shalaby), [Maryam Daryalal](https://www.maryamdaryalal.com/) (2022), Kianoush Mousavi (2022, co-supervisor: Prof. Matthew J. Roorda), [Cheng Guo](https://chengg04.github.io/) (2021), Narges Sereshti (2022, visiting PhD student)
   - M.A.Sc. students (and graduation years): Neda Tanoumand (2022, co-supervisor: Prof. Joe Naoum-Sawaya), Manion Anderson (2021, co-supervisor: Prof. Vahid Sarhangian), Juyoung Wang (2022, co-supervisor: Prof. Mucahit Cevik), Moira MacNeil (2020), Stefana Filipova (2019, co-supervisor: Prof. Chris Beck)
   - Senior undergraduate students  (and graduation years): Lorna Licollari (2023), Haoyuan Xue (2022), Anna Deza (2020)
