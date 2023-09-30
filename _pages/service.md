@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## Editorial Service
-- Associate Editor, [*INFOR*](https://www.tandfonline.com/journals/tinf20), 2021 - present
-- Referee: Mathematical Programming, Operations Research, Management Science, Manufacturing and Service Operations Management, Production and Operations Management, INFORMS Journal on Computing, Mathematical Programming Computation, Mathematics of Operations Research, Transportation Science, European Journal of Operational Research, IISE Transactions, INFORMS Journal on Optimization, Journal of Optimization Theory and Applications and others.
+- *Associate Editor*, [*INFOR*](https://www.tandfonline.com/journals/tinf20), 2021 - present
+- *Referee*: Mathematical Programming, Operations Research, Management Science, Manufacturing and Service Operations Management, Production and Operations Management, INFORMS Journal on Computing, Mathematical Programming Computation, Mathematics of Operations Research, Transportation Science, European Journal of Operational Research, IISE Transactions, INFORMS Journal on Optimization, Journal of Optimization Theory and Applications and others.
 
 ## Conferences
 - Co-organizer, Discrete Stochastic Programming stream of the Optimization under Uncertainty cluster, *[25th International Symposium on Mathematical Programming (ISMP)](https://ismp2024.gerad.ca/)*, 2024
