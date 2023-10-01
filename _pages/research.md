@@ -149,10 +149,10 @@ Z. Ansarilari, M. M. Nesheli, S. Srikukenthiran, M. Bodur, and A. Shalaby\
   - Arash Dehghan, Ph.D. student, Toronto Metropolitan University (co-supervisor: Prof. Mucahit Cevik)
 
 - *Former supervisees*:
+  - Ph.D. students (and graduation years): [Cheng Guo](https://chengg04.github.io/) (2021), Zahra Ansarilari (2022, co-supervisor: Prof. Amer Shalaby), [Maryam Daryalal](https://www.maryamdaryalal.com/) (2022), Kianoush Mousavi (2022, co-supervisor: Prof. Matthew J. Roorda), Narges Sereshti (2022, visiting PhD student), Lizeth Carolina Riascos Alvarez (2023, co-supervisor: Prof. Dionne Aleman), [Ian Zhu](https://www.ianyzhu.com/) (2023, co-supervisor: Prof. Timothy Chan)
+  - M.A.Sc. students (and graduation years): Stefana Filipova (2018, co-supervisor: Prof. Chris Beck), Moira MacNeil (2019), Juyoung Wang (2021, co-supervisor: Prof. Mucahit Cevik), Manion Anderson (2021, co-supervisor: Prof. Vahid Sarhangian), Neda Tanoumand (2022, co-supervisor: Prof. Joe Naoum-Sawaya)
   - Postdoctoral fellows: Hamed Pouya (2019-2020), [Margarita Castro](https://sites.google.com/view/margaritacastro) (2020-2021), Oylum Seker (2019-2022)
-  - Ph.D. students (and graduation years): Lizeth Carolina Riascos Alvarez (2023, co-supervisor: Prof. Dionne Aleman), [Ian Zhu](https://www.ianyzhu.com/) (2023, co-supervisor: Prof. Timothy Chan), Zahra Ansarilari (2022, co-supervisor: Prof. Amer Shalaby), [Maryam Daryalal](https://www.maryamdaryalal.com/) (2022), Kianoush Mousavi (2022, co-supervisor: Prof. Matthew J. Roorda), [Cheng Guo](https://chengg04.github.io/) (2021), Narges Sereshti (2022, visiting PhD student)
-  - M.A.Sc. students (and graduation years): Neda Tanoumand (2022, co-supervisor: Prof. Joe Naoum-Sawaya), Manion Anderson (2021, co-supervisor: Prof. Vahid Sarhangian), Juyoung Wang (2022, co-supervisor: Prof. Mucahit Cevik), Moira MacNeil (2020), Stefana Filipova (2019, co-supervisor: Prof. Chris Beck)
-  - Senior undergraduate students  (and graduation years): Lorna Licollari (2023), Haoyuan Xue (2022), Anna Deza (2020)
+  - Senior undergraduate students (and graduation years): Anna Deza (2020), Haoyuan Xue (2022), Lorna Licollari (2023)
 
 
 
