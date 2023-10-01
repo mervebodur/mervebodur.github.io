@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Merve Bodur"
   avatar           : "profile.png"
-  bio              : "MB"
-  location         : "Toronto"
-  employer         : "Toronto"
+  bio              : #"MB"
+  location         : "Edinburgh"
+  employer         : "The University of Edinburgh"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=JlWdyYwAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Merve-Bodur"
+  researchgate     :  #"https://www.researchgate.net/profile/Merve-Bodur"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mervebodur"
+  github           : #"mervebodur"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : #"meurevine"
-  orcid            : #"http://orcid.org/0000-0003-..."
+  orcid            : https://orcid.org/0000-0002-9276-3755
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
