@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Research Interests
-- *Methodologies*: Stochastic Programming, Robust Optimization, (Approximate) Dynamic Pro- gramming, Integer Programming, Combinatorial Optimization, Multiobjective Optimization, Inverse Optimization, Machine Learning
+- *Methodologies*: Stochastic Programming, Robust Optimization, (Approximate) Dynamic Programming, Integer Programming, Combinatorial Optimization, Multiobjective Optimization, Inverse Optimization, Machine Learning
 - *Application Areas*: Decision Making Under Uncertainty, Healthcare, Transportation, Telecommunication, Power Systems, Service Systems Staffing and Scheduling, Networks
 
 
