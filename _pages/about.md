@@ -23,9 +23,7 @@ The University of Edinburgh\
 James Clerk Maxwell Building\
 Peter Guthrie Tait Road\
 JCMB 3619\
-Edinburgh\
-EH9 3FD\
-United Kingdom
+Edinburgh, EH9 3FD, UK
 
 E-mail: [merve.bodur@ed.ac.uk](merve.bodur@ed.ac.uk)\
 Web: [https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=1185](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=1185)
