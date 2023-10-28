@@ -39,7 +39,7 @@ K. Mousavi, M. Bodur, M. Cevik, and M.J. Roorda (2021)
 1. **Multistage stochastic fractionated intensity modulated radiation therapy planning** [[link]](https://doi.org/10.1016/j.cor.2023.106371)\
 M. Bodur , M. Cevik, A. Cire, M. Ruschin, J. Wang\
 *Computers and Operations Research* (2023)
-1. **A Branch-and-Price Algorithm Enhanced by Decision Diagrams for the Kidney Exchange Problem** [[link]](http://www.optimization-online.org/DB_FILE/2020/09/8041.pdf)\
+1. **A Branch-and-Price Algorithm Enhanced by Decision Diagrams for the Kidney Exchange Problem** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/msom.2022.0192)\
 C. Riascos, M. Bodur, and D. Aleman\
 *Manufacturing & Service Operations Management* (2023)
 1. **Routing and Wavelength Assignment with Protection: A Quadratic Unconstrained Binary Optimization Approach Enabled by Digital Annealer Technology** [[link]](https://www.tandfonline.com/doi/pdf/10.1080/24725854.2023.2193835)\
