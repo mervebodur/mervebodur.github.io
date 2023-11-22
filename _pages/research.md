@@ -12,7 +12,7 @@ author_profile: true
 
 ## Preprints
 1. **Neural Approximate Dynamic Programming for the Ultra-fast Order Dispatching Problem** [[link]](https://optimization-online.org/wp-content/uploads/2023/11/neuradp_dispatching.pdf)\
-A. Dehghan-Kooshkghazi, M. Cevik, and M. Bodur (2023)
+A. Dehghan, M. Cevik, and M. Bodur (2023)
 1. **Markov Chain-based Policies for Multi-stage Stochastic Integer Linear Programming with an Application to Disaster Relief Logistics** [[link]](https://arxiv.org/pdf/2207.14779)\
 M.P. Castro, M. Bodur, and Y. Song (2023)
 1. **Two-stage and Lagrangian Dual Decision Rules for Multistage Adaptive Robust Optimization** [[link]](https://arxiv.org/pdf/2305.06190)\
