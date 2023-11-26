@@ -30,7 +30,8 @@ author_profile: true
 
 
 ## Other Professional Service
-- Committee member, *[Refereed Papers for INFORMS Optimization Society Conference](https://ios2024.rice.edu/refereed-papers/)*, 2024 
+- Committee member, *[Refereed Papers for INFORMS Optimization Society Conference](https://ios2024.rice.edu/refereed-papers/)*, 2024
+- Committee member, *COSP (the elected board of Stochastic Programming Society)*, 2023-Present
 - Committee member, *INFORMS Optimization Society Student Paper Prize*, 2023
 - Reviewer, *CORS Open Student Paper Competition*, 2022
 - Committee member, *INFORMS Computing Society Student Paper Prize*, 2021
