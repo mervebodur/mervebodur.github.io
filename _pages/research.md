@@ -19,76 +19,76 @@ M. Bodur , M. Cevik, A. Cire, M. Ruschin, J. Wang\
 1. **A Branch-and-Price Algorithm Enhanced by Decision Diagrams for the Kidney Exchange Problem** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/msom.2022.0192)\
 C. Riascos, M. Bodur, and D. Aleman\
 *Manufacturing & Service Operations Management* (2023)
-25. **Routing and Wavelength Assignment with Protection: A Quadratic Unconstrained Binary Optimization Approach Enabled by Digital Annealer Technology** [[link]](https://www.tandfonline.com/doi/pdf/10.1080/24725854.2023.2193835)\
+1. **Routing and Wavelength Assignment with Protection: A Quadratic Unconstrained Binary Optimization Approach Enabled by Digital Annealer Technology** [[link]](https://www.tandfonline.com/doi/pdf/10.1080/24725854.2023.2193835)\
 O. Şeker, M. Bodur, and H. Pouya\
 *IISE Transactions* (2023)
-24. **Multiobjective optimization approaches for sector duration optimization problem in radiosurgery** [[link]](https://arxiv.org/pdf/2104.13878.pdf)\
+1. **Multiobjective optimization approaches for sector duration optimization problem in radiosurgery** [[link]](https://arxiv.org/pdf/2104.13878.pdf)\
 O. Seker, M. Cevik, M. Bodur, Y. Lee, M. Ruschin\
 *INFORMS Journal on Computing* (2022)
-23. **Lagrangian Dual Decision Rules for Multistage Stochastic Mixed Integer Programming** [[link]](https://pubsonline.informs.org/doi/full/10.1287/opre.2022.2366)\
+1. **Lagrangian Dual Decision Rules for Multistage Stochastic Mixed Integer Programming** [[link]](https://pubsonline.informs.org/doi/full/10.1287/opre.2022.2366)\
 M. Daryalal, M. Bodur, and J. Luedtke\
 *Operations Research* (2022)
-22. **Digital Annealer for Quadratic Unconstrained Binary Optimization: A Comparative Performance Analysis** [[link]](https://doi.org/10.1016/j.asoc.2022.109367)\
+1. **Digital Annealer for Quadratic Unconstrained Binary Optimization: A Comparative Performance Analysis** [[link]](https://doi.org/10.1016/j.asoc.2022.109367)\
 O. Şeker, N. Tanoumand, and M. Bodur\
 *Applied Soft Computing* (2022)
-21. **Optimization Helps Scheduling Nursing Staff at the Long-Term Care Homes of the City of Toronto** [[link]](https://pubsonline.informs.org/doi/full/10.1287/inte.2022.1132)\
+1. **Optimization Helps Scheduling Nursing Staff at the Long-Term Care Homes of the City of Toronto** [[link]](https://pubsonline.informs.org/doi/full/10.1287/inte.2022.1132)\
 M. Anderson, M. Bodur, S. Rathwell, and V. Sarhangian\
 *INFORMS Journal of Applied Analytics* (2022)
-20. **Stochastic RWA and Lightpath Rerouting in WDM Networks** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1179)\
+1. **Stochastic RWA and Lightpath Rerouting in WDM Networks** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1179)\
 M. Daryalal, and M. Bodur\
 *INFORMS Journal on Computing* (2022)
-19. **Generation Expansion Planning with Revenue Adequacy Constraints** [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0305054822000363)\
+1. **Generation Expansion Planning with Revenue Adequacy Constraints** [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0305054822000363)\
 C. Guo, M. Bodur, and D. Papageorgiou\
 *Computers and Operations Research* (2022)
-18. **Transfer Time Optimization in Public Transit Networks: Assessment of Alternative Models** [[link]](https://www.tandfonline.com/doi/full/10.1080/23249935.2022.2056655)\
+1. **Transfer Time Optimization in Public Transit Networks: Assessment of Alternative Models** [[link]](https://www.tandfonline.com/doi/full/10.1080/23249935.2022.2056655)\
 Z. Ansarilari, M.M. Nesheli, M. Bodur, and A. Shalaby\
 *Transportmetrica A: Transport Science* (2022)
-17. **Decomposition for loosely coupled integer programs: A multiobjective perspective** [[link]](https://link.springer.com/article/10.1007/s10107-021-01765-5)\
+1. **Decomposition for loosely coupled integer programs: A multiobjective perspective** [[link]](https://link.springer.com/article/10.1007/s10107-021-01765-5)\
 M. Bodur, S. Ahmed, N. Boland, and G. L. Nemhauser\
 *Mathematical Programming* (2022)
-16. **Inverse Mixed Integer Optimization: Certificate Sets and Trust Region Methods** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2021.1138)\
+1. **Inverse Mixed Integer Optimization: Certificate Sets and Trust Region Methods** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2021.1138)\
 M. Bodur, T.C.Y. Chan, and I.Y. Zhu\
 *INFORMS Journal on Computing* (2022)
-15. **On the impact of deep learning-based time-series forecasts on multistage stochastic programming policies** [[link]](https://www.tandfonline.com/doi/full/10.1080/03155986.2021.2015825)\
+1. **On the impact of deep learning-based time-series forecasts on multistage stochastic programming policies** [[link]](https://www.tandfonline.com/doi/full/10.1080/03155986.2021.2015825)\
 J. Wang, M. Cevik, M. Bodur\
 *INFOR: Information Systems and Operational Research* (2021)
-14. **Stochastic Last-mile Delivery with Crowd-shipping and Mobile Depots** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2021.1088)\
+1. **Stochastic Last-mile Delivery with Crowd-shipping and Mobile Depots** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2021.1088)\
 K. Mousavi, M. Bodur, and M.J. Roorda\
 *Transportation Science* (2022)
-13. **Constraint Programming Approaches to the Discretizable Molecular Distance Geometry Problem** [[link]](https://onlinelibrary.wiley.com/doi/full/10.1002/net.22068)\
+1. **Constraint Programming Approaches to the Discretizable Molecular Distance Geometry Problem** [[link]](https://onlinelibrary.wiley.com/doi/full/10.1002/net.22068)\
 M. MacNeil, and M. Bodur\
 *Networks* (2022)
-12. **Network Models for Multiobjective Discrete Optimization** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2021.1066)\
+1. **Network Models for Multiobjective Discrete Optimization** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2021.1066)\
 D. Bergman, M. Bodur, C. Cardohna, and A.A. Cire\
 *INFORMS Journal on Computing* (2022)
-11. **Integer Programming, Constraint Programming, and Hybrid Decomposition Approaches to Discretizable Distance Geometry Problems** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2020.1039)\
+1. **Integer Programming, Constraint Programming, and Hybrid Decomposition Approaches to Discretizable Distance Geometry Problems** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2020.1039)\
 M. MacNeil, and M. Bodur\
 *INFORMS Journal on Computing* (2022)
-10. **Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating Room Scheduling** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2020.1036)\
+1. **Logic-based Benders Decomposition and Binary Decision Diagram Based Approaches for Stochastic Distributed Operating Room Scheduling** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2020.1036)\
 C. Guo, M. Bodur, D. Aleman, and D. Urbach\
 *INFORMS Journal on Computing* (2021)
-9. **Two-Stage Linear Decision Rules for Multi-stage Stochastic Programming** [[link]](https://link.springer.com/article/10.1007/s10107-018-1339-4)\
+1. **Two-Stage Linear Decision Rules for Multi-stage Stochastic Programming** [[link]](https://link.springer.com/article/10.1007/s10107-018-1339-4)\
 M. Bodur, and J. Luedtke\
 *Mathematical Programming* (2022)
-8. **Lower Bounds on the Lattice-free Rank for Packing and Covering Integer Programs** [[link]](https://epubs.siam.org/doi/10.1137/17M1149985)\
+1. **Lower Bounds on the Lattice-free Rank for Packing and Covering Integer Programs** [[link]](https://epubs.siam.org/doi/10.1137/17M1149985)\
 M. Bodur, A. Del Pia, S. S. Dey, and M. Molinaro\
 *SIAM Journal on Optimization* (2019)
-7. **Integer Programming Formulations for Minimum Deficiency Interval Coloring** [[link]](https://onlinelibrary.wiley.com/doi/abs/10.1002/net.21826)\
+1. **Integer Programming Formulations for Minimum Deficiency Interval Coloring** [[link]](https://onlinelibrary.wiley.com/doi/abs/10.1002/net.21826)\
 M. Bodur, and J. Luedtke\
 *Networks* (2018)
-6. **Aggregation-based cutting-planes for packing and covering integer programs** [[link]](https://doi.org/10.1007/s10107-017-1192-x)\
+1. **Aggregation-based cutting-planes for packing and covering integer programs** [[link]](https://doi.org/10.1007/s10107-017-1192-x)\
 M. Bodur, A. Del Pia, S.S. Dey, M. Molinaro, and S. Pokutta\
 *Mathematical Programming* (2018)
-5. **A new lift-and-project operator** [[link]](http://www.optimization-online.org/DB_HTML/2015/09/5132.html)\
+1. **A new lift-and-project operator** [[link]](http://www.optimization-online.org/DB_HTML/2015/09/5132.html)\
 M. Bodur, S. Dash, and O. Gunluk\
 *European Journal of Operational Research* (2017)
-4. **Cutting planes from extended LP formulations** [[link]](http://link.springer.com/article/10.1007/s10107-016-1005-7?wt_mc=internal.event.1.SEM.ArticleAuthorOnlineFirst)\
+1. **Cutting planes from extended LP formulations** [[link]](http://link.springer.com/article/10.1007/s10107-016-1005-7?wt_mc=internal.event.1.SEM.ArticleAuthorOnlineFirst)\
 M. Bodur, S. Dash, and O. Gunluk\
 *Mathematical Programming* (2017)
-3. **Strenghtened Benders Cuts for Stochastic Integer Programs with Continuous Recourse** [[link]](http://pubsonline.informs.org/doi/abs/10.1287/ijoc.2016.0717)\
+1. **Strenghtened Benders Cuts for Stochastic Integer Programs with Continuous Recourse** [[link]](http://pubsonline.informs.org/doi/abs/10.1287/ijoc.2016.0717)\
 M. Bodur, S. Dash, O. Gunluk, and J. Luedtke\
 *INFORMS Journal on Computing* (2016)
-2. **Mixed-Integer Rounding Enhanced Benders Decomposition for Multiclass Service System Staffing and Scheduling with Arrival Rate Uncertainty** [[link]](http://pubsonline.informs.org/doi/abs/10.1287/mnsc.2016.2455)\
+1. **Mixed-Integer Rounding Enhanced Benders Decomposition for Multiclass Service System Staffing and Scheduling with Arrival Rate Uncertainty** [[link]](http://pubsonline.informs.org/doi/abs/10.1287/mnsc.2016.2455)\
 M. Bodur, and J. Luedtke\
 *Management Science* (2016)
 1. **Decomposition Algorithms for Solving the Minimum Weight Maximal Matching Problem** [[link]](http://onlinelibrary.wiley.com/doi/10.1002/net.21516/abstract)\
