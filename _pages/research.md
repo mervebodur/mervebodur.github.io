@@ -14,7 +14,7 @@ author_profile: true
 M. MacNeil, and M. Bodur\
 *European Journal of Operational Research* (2023)
 1. **Multistage stochastic fractionated intensity modulated radiation therapy planning** [[link]](https://doi.org/10.1016/j.cor.2023.106371)\
-M. Bodur , M. Cevik, A. Cire, M. Ruschin, J. Wang\
+M. Bodur, M. Cevik, A. Cire, M. Ruschin, J. Wang\
 *Computers and Operations Research* (2023)
 1. **A Branch-and-Price Algorithm Enhanced by Decision Diagrams for the Kidney Exchange Problem** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/msom.2022.0192)\
 C. Riascos, M. Bodur, and D. Aleman\
