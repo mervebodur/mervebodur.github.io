@@ -10,10 +10,10 @@ author_profile: true
 - *Application Areas*: Decision Making Under Uncertainty, Healthcare, Transportation, Telecommunication, Power Systems, Service Systems Staffing and Scheduling, Networks
 
 ## Journal Papers
-- (28) **Leveraging Decision Diagrams to Solve Two-stage Stochastic Programs with Binary Recourse and Logical Linking Constraints** [[link]](https://optimization-online.org/wp-content/uploads/2022/11/BDD_2SP.pdf)\
+1. **Leveraging Decision Diagrams to Solve Two-stage Stochastic Programs with Binary Recourse and Logical Linking Constraints** [[link]](https://optimization-online.org/wp-content/uploads/2022/11/BDD_2SP.pdf)\
 M. MacNeil, and M. Bodur\
 *European Journal of Operational Research* (2023)
-- (27) **Multistage stochastic fractionated intensity modulated radiation therapy planning** [[link]](https://doi.org/10.1016/j.cor.2023.106371)\
+1. **Multistage stochastic fractionated intensity modulated radiation therapy planning** [[link]](https://doi.org/10.1016/j.cor.2023.106371)\
 M. Bodur , M. Cevik, A. Cire, M. Ruschin, J. Wang\
 *Computers and Operations Research* (2023)
 26. **A Branch-and-Price Algorithm Enhanced by Decision Diagrams for the Kidney Exchange Problem** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/msom.2022.0192)\
@@ -96,18 +96,19 @@ M. Bodur, T. Ekim, and Z. C. Taşkın\
 *Networks* (2013)
 
 ## Conference Publications
-4.  **Neur2SP: Neural Two-Stage Stochastic Programming** [[link]](https://proceedings.neurips.cc/paper_files/paper/2022/file/9793671e4be9858a69a32545204d59d1-Paper-Conference.pdf)\
+1.  **Neur2SP: Neural Two-Stage Stochastic Programming** [[link]](https://proceedings.neurips.cc/paper_files/paper/2022/file/9793671e4be9858a69a32545204d59d1-Paper-Conference.pdf)\
 J. Dumouchelle*, R. Patel*, E.B. Khalil, and M. Bodur\
 *Proceedings of the 36th Annual Conference on Advances in Neural Information Processing Systems (NeurIPS)* (2022)
-3. **Time series sampling for probabilistic forecasting** [[link]](https://dl.acm.org/doi/abs/10.5555/3432601.3432621)\
+1. **Time series sampling for probabilistic forecasting** [[link]](https://dl.acm.org/doi/abs/10.5555/3432601.3432621)\
 N. Prayogo, M. Cevik, M. Bodur\
 *Proceedings of the 30th Annual International Conference on Computer Science and Software Engineering* (2020)
-2. **Improving Transfer Time Optimization Modelling for Public Transit Systems**\
+1. **Improving Transfer Time Optimization Modelling for Public Transit Systems**\
 Z. Ansarilari, M. M. Nesheli, M. Bodur, A. Shalaby, and S. Srikukenthiran\
 *CD Proceedings of the 99th Annual Transportation Research Board Meeting* (2020)
 1. **Multi-Directional Transfer Time Optimization at a Single Transfer Node**\
 Z. Ansarilari, M. M. Nesheli, S. Srikukenthiran, M. Bodur, and A. Shalaby\
 *CD Proceedings of the 14th Conference on Advanced Systems for Public Transport* (2018)
+{: reversed="reversed"}
 
 ## Preprints
 1. **Neural Approximate Dynamic Programming for the Ultra-fast Order Dispatching Problem** [[link]](https://optimization-online.org/wp-content/uploads/2023/11/neuradp_dispatching.pdf)\
