@@ -10,6 +10,12 @@ author_profile: true
 - *Application Areas*: Decision Making Under Uncertainty, Healthcare, Transportation, Telecommunication, Power Systems, Service Systems Staffing and Scheduling, Networks
 
 ## Journal Papers
+0. coffee
+0. milk
+0. sugar
+{: reversed="reversed"}
+
+## Journal Papers
 1. **Leveraging Decision Diagrams to Solve Two-stage Stochastic Programs with Binary Recourse and Logical Linking Constraints** [[link]](https://optimization-online.org/wp-content/uploads/2022/11/BDD_2SP.pdf)\
 M. MacNeil, and M. Bodur\
 *European Journal of Operational Research* (2023)
