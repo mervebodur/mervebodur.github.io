@@ -10,19 +10,13 @@ author_profile: true
 - *Application Areas*: Decision Making Under Uncertainty, Healthcare, Transportation, Telecommunication, Power Systems, Service Systems Staffing and Scheduling, Networks
 
 ## Journal Papers
-0. coffee
-0. milk
-0. sugar
-{: reversed="reversed"}
-
-## Journal Papers
 1. **Leveraging Decision Diagrams to Solve Two-stage Stochastic Programs with Binary Recourse and Logical Linking Constraints** [[link]](https://optimization-online.org/wp-content/uploads/2022/11/BDD_2SP.pdf)\
 M. MacNeil, and M. Bodur\
 *European Journal of Operational Research* (2023)
 1. **Multistage stochastic fractionated intensity modulated radiation therapy planning** [[link]](https://doi.org/10.1016/j.cor.2023.106371)\
 M. Bodur , M. Cevik, A. Cire, M. Ruschin, J. Wang\
 *Computers and Operations Research* (2023)
-26. **A Branch-and-Price Algorithm Enhanced by Decision Diagrams for the Kidney Exchange Problem** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/msom.2022.0192)\
+1. **A Branch-and-Price Algorithm Enhanced by Decision Diagrams for the Kidney Exchange Problem** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/msom.2022.0192)\
 C. Riascos, M. Bodur, and D. Aleman\
 *Manufacturing & Service Operations Management* (2023)
 25. **Routing and Wavelength Assignment with Protection: A Quadratic Unconstrained Binary Optimization Approach Enabled by Digital Annealer Technology** [[link]](https://www.tandfonline.com/doi/pdf/10.1080/24725854.2023.2193835)\
@@ -100,6 +94,7 @@ M. Bodur, and J. Luedtke\
 1. **Decomposition Algorithms for Solving the Minimum Weight Maximal Matching Problem** [[link]](http://onlinelibrary.wiley.com/doi/10.1002/net.21516/abstract)\
 M. Bodur, T. Ekim, and Z. C. Taşkın\
 *Networks* (2013)
+{: reversed="reversed"}
 
 ## Conference Publications
 1.  **Neur2SP: Neural Two-Stage Stochastic Programming** [[link]](https://proceedings.neurips.cc/paper_files/paper/2022/file/9793671e4be9858a69a32545204d59d1-Paper-Conference.pdf)\
@@ -139,6 +134,7 @@ C. Guo, H. Nagarajan, and M. Bodur (2022)
 Z. Ansarilari, M. Bodur, and A. Shalaby (2022)
 1. **Approximate Dynamic Programming for Crowd-shipping with In-store Customers** [[link]](http://www.optimization-online.org/DB_FILE/2021/09/8602.pdf)\
 K. Mousavi, M. Bodur, M. Cevik, and M.J. Roorda (2021)
+{: reversed="reversed"}
 
 ## Data and Online Supplements
 - Data for paper "Strenghtened Benders Cuts for Stochastic Integer Programs with Continuous Recourse", by Bodur, Dash, Gunluk and Luedtke, 2017: [[STOCHIPCUTS]](https://drive.google.com/file/d/1a9NGWfOfBntu35XMyHa00lKy9UjbVvx5/view?usp=sharing)
