@@ -10,6 +10,8 @@ author_profile: true
 - *Application Areas*: Decision Making Under Uncertainty, Healthcare, Transportation, Telecommunication, Power Systems, Service Systems Staffing and Scheduling, Networks
 
 ## Preprints
+1. **Dynamic AGV Task Allocation in Intelligent Warehouses** [[link]](https://arxiv.org/pdf/2312.16026.pdf)\
+A. Dehghan, M. Cevik, and M. Bodur (2023)
 1. **Neural Approximate Dynamic Programming for the Ultra-fast Order Dispatching Problem** [[link]](https://optimization-online.org/wp-content/uploads/2023/11/neuradp_dispatching.pdf)\
 A. Dehghan, M. Cevik, and M. Bodur (2023)
 1. **Markov Chain-based Policies for Multi-stage Stochastic Integer Linear Programming with an Application to Disaster Relief Logistics** [[link]](https://arxiv.org/pdf/2207.14779)\
