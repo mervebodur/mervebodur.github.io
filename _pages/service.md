@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Editorial Service
+- *Associate Editor*, Operations Research Letters, 2024-present
 - *Associate Editor*, [*INFOR: Information Systems and Operational Research*](https://www.tandfonline.com/journals/tinf20), 2021 - present
 - *Referee*: Mathematical Programming, Operations Research, Management Science, Manufacturing and Service Operations Management, Production and Operations Management, INFORMS Journal on Computing, Mathematical Programming Computation, Mathematics of Operations Research, Transportation Science, European Journal of Operational Research, IISE Transactions, INFORMS Journal on Optimization, Journal of Optimization Theory and Applications and others.
 
@@ -30,6 +31,8 @@ author_profile: true
 
 
 ## Other Professional Service
+- Vice-Chair/Chair-Elect, *INFORMS Computing Society (ICS)*, 2024-present
+- Committee member, *INFORMS Journal on Optimization Editor-in-chief Search*, 2024
 - Committee member, *[Refereed Papers for INFORMS Optimization Society Conference](https://ios2024.rice.edu/refereed-papers/)*, 2024
 - Committee member, *COSP (the elected board of Stochastic Programming Society)*, 2023-Present
 - Committee member, *INFORMS Optimization Society Student Paper Prize*, 2023
@@ -37,4 +40,4 @@ author_profile: true
 - Committee member, *INFORMS Computing Society Student Paper Prize*, 2021
 - Reviewer, *CORS Open Student Paper Competition*, 2021
 - Judge, *INFORMS Poster Competition*, 2021
-- Vice Chair, Integer and Discrete Optimization, INFORMS Optimization Society (IOS), 2020-2021
+- Vice Chair, Integer and Discrete Optimization, *INFORMS Optimization Society (IOS)*, 2020-2021
