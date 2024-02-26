@@ -33,7 +33,8 @@ author_profile: true
 
 ## Other Professional Service
 - Vice-Chair/Chair-Elect, *INFORMS Computing Society (ICS)*, 2024-present
-- Committee member, *INFORMS Journal on Optimization Editor-in-chief Search*, 2024
+- Committee member, *George Nicholson Student Paper Competition*, 2024-2025
+- Committee member, *INFORMS Journal on Optimization Editor-in-Chief Search*, 2024
 - Committee member, *[Refereed Papers for INFORMS Optimization Society Conference](https://ios2024.rice.edu/refereed-papers/)*, 2024
 - Committee member, *COSP (the elected board of Stochastic Programming Society)*, 2023-Present
 - Committee member, *INFORMS Optimization Society Student Paper Prize*, 2023
