@@ -15,10 +15,10 @@ author_profile: true
 
 ## Invited Plenaries and Tutorials
 - *A Walk Through the ACOPF World*\
-Mixed-integer Nonlinear Optimization: A Hatchery for Modern Mathematics Workshop, Oberwolfach, Germany, August 2023.
+**Oberwolfach Workshop on Mixed-integer Nonlinear Optimization**, Oberwolfach, Germany, August 2023.
 - Tutorial, *Benders Decomposition Based Approaches in Two-stage Stochastic Integer Programming*\
-International Conference on Stochastic Programming (ICSP), Davis, CA, USA, July 2023.
+**International Conference on Stochastic Programming (ICSP)**, Davis, CA, USA, July 2023.
 - *Methodological Advances in Two-stage Stochastic Programming*\
-Workshop to Celebrate 20 Years of SCIP, Zuse Institute Berlin, Germany, November 2022.
+**Workshop to Celebrate 20 Years of SCIP**, Zuse Institute Berlin, Germany, November 2022.
 - Semi-plenary, *Linear Decision Rules for Multistage Stochastic Programming*\
-International Conference on Stochastic Programming (ICSP), Trondheim, Norway, 2019.
+**International Conference on Stochastic Programming (ICSP)**, Trondheim, Norway, 2019.
