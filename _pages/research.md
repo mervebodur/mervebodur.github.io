@@ -10,6 +10,8 @@ author_profile: true
 - *Application Areas*: Decision Making Under Uncertainty, Healthcare, Transportation, Telecommunication, Power Systems, Service Systems Staffing and Scheduling, Networks
 
 ## Preprints
+1. **Network Flow Models for Robust Binary Optimization with Selective Adaptability** [[link]](https://arxiv.org/pdf/2403.19471)\
+M. Bodur, T. Chan, I. Zhu (2024)
 1. **Dynamic AGV Task Allocation in Intelligent Warehouses** [[link]](https://arxiv.org/pdf/2312.16026.pdf)\
 A. Dehghan, M. Cevik, and M. Bodur (2023)
 1. **Neural Approximate Dynamic Programming for the Ultra-fast Order Dispatching Problem** [[link]](https://optimization-online.org/wp-content/uploads/2023/11/neuradp_dispatching.pdf)\
@@ -30,13 +32,14 @@ C. Riascos, M. Bodur, and D. Aleman (2023)
 N. Sereshti, M. Bodur, and J. Luedtke (2022)
 1. **Tightening Quadratic Convex Relaxations for the AC Optimal Transmission Switching Problem** [[link]](https://optimization-online.org/wp-content/uploads/2022/12/Tightening_qc_relaxation_for_acots_Guo_Nagarajan_Bodur.pdf)\
 C. Guo, H. Nagarajan, and M. Bodur (2022)
-1. **A Novel Model for Transfer Synchronization in Transit Networks and a Lagrangian-based Heuristic Solution Method** [[link]](http://www.optimization-online.org/DB_FILE/2022/02/8807.pdf)\
-Z. Ansarilari, M. Bodur, and A. Shalaby (2022)
 1. **Approximate Dynamic Programming for Crowd-shipping with In-store Customers** [[link]](http://www.optimization-online.org/DB_FILE/2021/09/8602.pdf)\
 K. Mousavi, M. Bodur, M. Cevik, and M.J. Roorda (2021)
 {: reversed="reversed"}
 
 ## Journal Papers
+1. **A Novel Model for Transfer Synchronization in Transit Networks and a Lagrangian-based Heuristic Solution Method** [[link]](https://www.sciencedirect.com/science/article/pii/S037722172400184X)\
+Z. Ansarilari, M. Bodur, and A. Shalaby\
+*European Journal of Operational Research* (2024)
 1. **Leveraging Decision Diagrams to Solve Two-stage Stochastic Programs with Binary Recourse and Logical Linking Constraints** [[link]](https://optimization-online.org/wp-content/uploads/2022/11/BDD_2SP.pdf)\
 M. MacNeil, and M. Bodur\
 *European Journal of Operational Research* (2023)
