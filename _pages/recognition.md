@@ -14,11 +14,11 @@ author_profile: true
 - *Ph.D. Fellowship*, IBM (2014)
 
 ## Invited Plenaries and Tutorials
-- *A Walk Through the ACOPF World*  
+- *A Walk Through the ACOPF World*\
 Mixed-integer Nonlinear Optimization: A Hatchery for Modern Mathematics Workshop, Oberwolfach, Germany, August 2023.
-- Tutorial, *Benders Decomposition Based Approaches in Two-stage Stochastic Integer Programming*
+- Tutorial, *Benders Decomposition Based Approaches in Two-stage Stochastic Integer Programming*\
 International Conference on Stochastic Programming (ICSP), Davis, CA, USA, July 2023.
-- *Methodological Advances in Two-stage Stochastic Programming*
+- *Methodological Advances in Two-stage Stochastic Programming*\
 Workshop to Celebrate 20 Years of SCIP, Zuse Institute Berlin, Germany, November 2022.
-- Semi-plenary, *Linear Decision Rules for Multistage Stochastic Programming*
+- Semi-plenary, *Linear Decision Rules for Multistage Stochastic Programming*\
 International Conference on Stochastic Programming (ICSP), Trondheim, Norway, 2019.
