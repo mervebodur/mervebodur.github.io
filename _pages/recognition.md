@@ -14,6 +14,8 @@ author_profile: true
 - *Ph.D. Fellowship*, IBM (2014)
 
 ## Invited Plenaries and Tutorials
+- *Decision Rules for Sequential Decision-making Under Uncertainty*\
+**10th VOCAL Optimization Conference: Advanced Algorithms**, Budapest, Hungary, June 2024.
 - *A Walk Through the ACOPF World*\
 **Oberwolfach Workshop on Mixed-integer Nonlinear Optimization**, Oberwolfach, Germany, August 2023.
 - Tutorial, *Benders Decomposition Based Approaches in Two-stage Stochastic Integer Programming*\
