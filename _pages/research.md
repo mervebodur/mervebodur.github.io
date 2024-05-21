@@ -12,6 +12,8 @@ author_profile: true
 ## Preprints
 1. **Network Flow Models for Robust Binary Optimization with Selective Adaptability** [[link]](https://arxiv.org/pdf/2403.19471)\
 M. Bodur, T. Chan, I. Zhu (2024)
+1. **A Comprehensive Stochastic Programming Model for Transfer Synchronization in Transit Networks** [[link]](https://arxiv.org/pdf/2403.03130)\
+Z. Ansarilari, M. Bodur, and A. Shalaby (2024)
 1. **Dynamic AGV Task Allocation in Intelligent Warehouses** [[link]](https://arxiv.org/pdf/2312.16026.pdf)\
 A. Dehghan, M. Cevik, and M. Bodur (2023)
 1. **Neural Approximate Dynamic Programming for the Ultra-fast Order Dispatching Problem** [[link]](https://optimization-online.org/wp-content/uploads/2023/11/neuradp_dispatching.pdf)\
