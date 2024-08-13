@@ -10,6 +10,8 @@ author_profile: true
 - *Application Areas*: Decision Making Under Uncertainty, Healthcare, Transportation, Telecommunication, Power Systems, Service Systems Staffing and Scheduling, Networks
 
 ## Preprints
+1. **Incorporating Service Reliability in Multi-depot Vehicle Scheduling** [[link]](https://arxiv.org/pdf/2407.00836)\
+M.P. Castro, M. Bodur, and A. Shalaby (2024)
 1. **Network Flow Models for Robust Binary Optimization with Selective Adaptability** [[link]](https://arxiv.org/pdf/2403.19471)\
 M. Bodur, T. Chan, I. Zhu (2024)
 1. **A Comprehensive Stochastic Programming Model for Transfer Synchronization in Transit Networks** [[link]](https://arxiv.org/pdf/2403.03130)\
@@ -34,11 +36,12 @@ C. Riascos, M. Bodur, and D. Aleman (2023)
 N. Sereshti, M. Bodur, and J. Luedtke (2022)
 1. **Tightening Quadratic Convex Relaxations for the AC Optimal Transmission Switching Problem** [[link]](https://optimization-online.org/wp-content/uploads/2022/12/Tightening_qc_relaxation_for_acots_Guo_Nagarajan_Bodur.pdf)\
 C. Guo, H. Nagarajan, and M. Bodur (2022)
-1. **Approximate Dynamic Programming for Crowd-shipping with In-store Customers** [[link]](http://www.optimization-online.org/DB_FILE/2021/09/8602.pdf)\
-K. Mousavi, M. Bodur, M. Cevik, and M.J. Roorda (2021)
 {: reversed="reversed"}
 
 ## Journal Papers
+1. **Approximate Dynamic Programming for Crowd-shipping with In-store Customers** [[link]](http://www.optimization-online.org/DB_FILE/2021/09/8602.pdf)\
+K. Mousavi, M. Bodur, M. Cevik, and M.J. Roorda\
+*Transportation Research Part B* (2024)
 1. **A Novel Model for Transfer Synchronization in Transit Networks and a Lagrangian-based Heuristic Solution Method** [[link]](https://www.sciencedirect.com/science/article/pii/S037722172400184X)\
 Z. Ansarilari, M. Bodur, and A. Shalaby\
 *European Journal of Operational Research* (2024)
@@ -129,8 +132,11 @@ M. Bodur, T. Ekim, and Z. C. Taşkın\
 {: reversed="reversed"}
 
 ## Conference Publications
+1. **Extraboard Transit Operator Planning and Scheduling under Uncertainty**\
+J. Song, A. Shalaby, M. Bodur\
+*CD Proceedings of the 103th Annual Transportation Research Board Meeting* (2024)
 1.  **Neur2SP: Neural Two-Stage Stochastic Programming** [[link]](https://proceedings.neurips.cc/paper_files/paper/2022/file/9793671e4be9858a69a32545204d59d1-Paper-Conference.pdf)\
-J. Dumouchelle*, R. Patel*, E.B. Khalil, and M. Bodur\
+J. Dumouchelle, R. Patel, E.B. Khalil, and M. Bodur\
 *Proceedings of the 36th Annual Conference on Advances in Neural Information Processing Systems (NeurIPS)* (2022)
 1. **Time series sampling for probabilistic forecasting** [[link]](https://dl.acm.org/doi/abs/10.5555/3432601.3432621)\
 N. Prayogo, M. Cevik, M. Bodur\
