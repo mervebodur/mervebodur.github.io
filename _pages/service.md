@@ -32,7 +32,10 @@ author_profile: true
 
 
 ## Other Professional Service
+- Council member, *Mathematical Optimization Society*, 2024-present
 - Vice-Chair/Chair-Elect, *INFORMS Computing Society (ICS)*, 2024-present
+- Committee member, *INFORMS Optimization Society (IOS) Young Researcher Award*, 2024
+- Committee member, *INFORMS Computing Society (ICS) Distinguished Service Award*, 2024
 - Committee member, *George Nicholson Student Paper Competition*, 2024-2025
 - Committee member, *INFORMS Journal on Optimization Editor-in-Chief Search*, 2024
 - Committee member, *[Refereed Papers for INFORMS Optimization Society Conference](https://ios2024.rice.edu/refereed-papers/)*, 2024
