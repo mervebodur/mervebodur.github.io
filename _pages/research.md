@@ -162,14 +162,15 @@ Z. Ansarilari, M. M. Nesheli, S. Srikukenthiran, M. Bodur, and A. Shalaby\
   - Zoha Sherkat-Masoumi, Ph.D. student, University of Toronto
   - Haoyuan Xue, Ph.D. student, University of Toronto
   - Jilin Song, Ph.D. student, University of Toronto (co-supervisor: Prof. Amer Shalaby)
-  - Daniel Deza, Senior undergrad student, University of Toronto 
   - Arash Dehghan, Ph.D. student, Toronto Metropolitan University (co-supervisor: Prof. Mucahit Cevik)
+  - Buket Ozen, Ph.D. student, University of Edinburgh (co-supervisor: Prof. Alper Yildirim)
+  - Juan Valuencia, Ph.D. student, University of Edinburgh
 
 - *Former supervisees*:
   - Ph.D. students (and graduation years): [Cheng Guo](https://chengg04.github.io/) (2021), Zahra Ansarilari (2022, co-supervisor: Prof. Amer Shalaby), [Maryam Daryalal](https://www.daryalal.aroralab.ca) (2022), Kianoush Mousavi (2022, co-supervisor: Prof. Matthew J. Roorda), Narges Sereshti (2022, visiting PhD student), Lizeth Carolina Riascos Alvarez (2023, co-supervisor: Prof. Dionne Aleman), [Ian Zhu](https://www.ianyzhu.com/) (2023, co-supervisor: Prof. Timothy Chan)
   - M.A.Sc. students (and graduation years): Stefana Filipova (2018, co-supervisor: Prof. Chris Beck), Moira MacNeil (2019), Juyoung Wang (2021, co-supervisor: Prof. Mucahit Cevik), Manion Anderson (2021, co-supervisor: Prof. Vahid Sarhangian), Neda Tanoumand (2022, co-supervisor: Prof. Joe Naoum-Sawaya)
   - Postdoctoral fellows: Hamed Pouya (2019-2020), [Margarita Castro](https://sites.google.com/view/margaritacastro) (2020-2021), Oylum Seker (2019-2022)
-  - Senior undergraduate students (and graduation years): Anna Deza (2020), Haoyuan Xue (2022), Lorna Licollari (2023)
+  - Senior undergraduate students (and graduation years): Anna Deza (2020), Haoyuan Xue (2022), Lorna Licollari (2023), Daniel Deza (2024)
 
 
 
