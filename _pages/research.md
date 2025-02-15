@@ -14,10 +14,6 @@ author_profile: true
 M.P. Castro, M. Bodur, and A. Shalaby (2024)
 1. **Network Flow Models for Robust Binary Optimization with Selective Adaptability** [[link]](https://arxiv.org/pdf/2403.19471)\
 M. Bodur, T. Chan, I. Zhu (2024)
-1. **A Comprehensive Stochastic Programming Model for Transfer Synchronization in Transit Networks** [[link]](https://arxiv.org/pdf/2403.03130)\
-Z. Ansarilari, M. Bodur, and A. Shalaby (2024)
-1. **Dynamic AGV Task Allocation in Intelligent Warehouses** [[link]](https://arxiv.org/pdf/2312.16026.pdf)\
-A. Dehghan, M. Cevik, and M. Bodur (2023)
 1. **Neural Approximate Dynamic Programming for the Ultra-fast Order Dispatching Problem** [[link]](https://optimization-online.org/wp-content/uploads/2023/11/neuradp_dispatching.pdf)\
 A. Dehghan, M. Cevik, and M. Bodur (2023)
 1. **Markov Chain-based Policies for Multi-stage Stochastic Integer Linear Programming with an Application to Disaster Relief Logistics** [[link]](https://arxiv.org/pdf/2207.14779)\
@@ -26,8 +22,6 @@ M.P. Castro, M. Bodur, and Y. Song (2023)
 M. Daryalal, A.N. Arslan, and M. Bodur (2023)
 1. **Data-driven Distributionally Robust Optimization: Intersecting Ambiguity Sets, Performance Analysis and Tractability** [[link]](https://optimization-online.org/wp-content/uploads/2023/04/DRO.pdf)\
 N. Tanoumand, M. Bodur, and J. Naoum-Sawaya (2023)
-1. **Copositive Duality for Discrete Energy Markets** [[link]](https://optimization-online.org/wp-content/uploads/2021/01/COPDualityApp-1.pdf)\
-C. Guo, M. Bodur, and J.A. Taylor (2023)
 1. **An Enhanced Approximate Dynamic Programming Approach to On-demand Ride Pooling** [[link]](https://arxiv.org/pdf/2305.12028.pdf)\
 A. Dehghan, M. Cevik, and M. Bodur (2023)
 1. **A Feasibility Look to Two-stage Robust Optimization in Kidney Exchange** [[link]](https://arxiv.org/pdf/2211.09242.pdf)\
@@ -39,6 +33,15 @@ C. Guo, H. Nagarajan, and M. Bodur (2022)
 {: reversed="reversed"}
 
 ## Journal Papers
+1. **Copositive Duality for Discrete Energy Markets** [[link]](https://optimization-online.org/wp-content/uploads/2021/01/COPDualityApp-1.pdf)\
+C. Guo, M. Bodur, and J.A. Taylor\
+*Management Science* (2025)
+1. **A Comprehensive Stochastic Programming Model for Transfer Synchronization in Transit Networks** [[link]](https://arxiv.org/pdf/2403.03130)\
+Z. Ansarilari, M. Bodur, and A. Shalaby\
+*Computers and Operations Research* (2025)
+1. **Dynamic Task Allocation in Intelligent Warehouses with Hybrid Workforce of Automated Guided Vehicles and Human Pickers** [[link]](https://dl.acm.org/doi/10.1145/3716862)\
+A. Dehghan, M. Cevik, and M. Bodur\
+*ACM Transactions on Evolutionary Learning and Optimization* (2025)
 1. **Approximate Dynamic Programming for Crowd-shipping with In-store Customers** [[link]](http://www.optimization-online.org/DB_FILE/2021/09/8602.pdf)\
 K. Mousavi, M. Bodur, M. Cevik, and M.J. Roorda\
 *Transportation Research Part B* (2024)
