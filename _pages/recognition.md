@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Selected Awards and Honors
+- *Finalist*, INFORMS PSOR Best Paper Competition (2025)
 - *Early Researcher Award*, Ontario Ministry of Colleges and Universities (2023)
 - *Honorable Mention*, MCDM Junior Researcher Best Paper Award Competition (2022)
 - *Early Career Teaching Award*, Mechanical and Industrial Engineering, University of Toronto (2019)
@@ -13,7 +14,10 @@ author_profile: true
 - *Dean's Spark Professorship*, University of Toronto (2018-2021)
 - *Ph.D. Fellowship*, IBM (2014)
 
-## Invited Plenaries and Tutorials
+## Invited Plenaries, Keynotes and Tutorials
+- *Methodological Advances in Two-stage Stochastic Programming*,\
+*Recent Advances in Solving Multistage Stochastic Mixed-integer Programs*\
+**51st Conference on the Mathematics of Operations Research** (upcoming), Utrecht, Netherlands, January 2026.
 - *Decision Rules for Sequential Decision-making Under Uncertainty*\
 **10th VOCAL Optimization Conference: Advanced Algorithms**, Budapest, Hungary, June 2024.
 - *A Walk Through the ACOPF World*\
