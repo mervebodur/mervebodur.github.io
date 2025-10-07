@@ -10,6 +10,8 @@ author_profile: true
 - *Application Areas*: Decision Making Under Uncertainty, Healthcare, Transportation, Telecommunication, Power Systems, Service Systems Staffing and Scheduling, Networks
 
 ## Preprints
+1. **A Novel Adaptive Testing Scheme for Multi-disease Testing**\
+D. Bish, E. Bish, M. Bodur, and B. Gorgulu (2025)
 1. **Joint Matching and Pricing for Crowd-shipping with In-store Customers** [[link]](https://arxiv.org/pdf/2507.01749)\
 A. Dehghan, M. Cevik, M. Bodur, and B. Ghaddar (2025)
 1. **Incorporating Service Reliability in Multi-depot Vehicle Scheduling** [[link]](https://arxiv.org/pdf/2407.00836)\
