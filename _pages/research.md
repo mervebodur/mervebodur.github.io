@@ -10,29 +10,38 @@ author_profile: true
 - *Application Areas*: Decision Making Under Uncertainty, Healthcare, Transportation, Telecommunication, Power Systems, Service Systems Staffing and Scheduling, Networks
 
 ## Preprints
+1. **Joint Matching and Pricing for Crowd-shipping with In-store Customers** [[link]](https://arxiv.org/pdf/2507.01749)\
+A. Dehghan, M. Cevik, M. Bodur, B. Ghaddar (2025)
 1. **Incorporating Service Reliability in Multi-depot Vehicle Scheduling** [[link]](https://arxiv.org/pdf/2407.00836)\
 M.P. Castro, M. Bodur, and A. Shalaby (2024)
-1. **Network Flow Models for Robust Binary Optimization with Selective Adaptability** [[link]](https://arxiv.org/pdf/2403.19471)\
-M. Bodur, T. Chan, I. Zhu (2024)
 1. **Neural Approximate Dynamic Programming for the Ultra-fast Order Dispatching Problem** [[link]](https://optimization-online.org/wp-content/uploads/2023/11/neuradp_dispatching.pdf)\
 A. Dehghan, M. Cevik, and M. Bodur (2023)
-1. **Markov Chain-based Policies for Multi-stage Stochastic Integer Linear Programming with an Application to Disaster Relief Logistics** [[link]](https://arxiv.org/pdf/2207.14779)\
-M.P. Castro, M. Bodur, and Y. Song (2023)
 1. **Two-stage and Lagrangian Dual Decision Rules for Multistage Adaptive Robust Optimization** [[link]](https://arxiv.org/pdf/2305.06190)\
 M. Daryalal, A.N. Arslan, and M. Bodur (2023)
 1. **Data-driven Distributionally Robust Optimization: Intersecting Ambiguity Sets, Performance Analysis and Tractability** [[link]](https://optimization-online.org/wp-content/uploads/2023/04/DRO.pdf)\
 N. Tanoumand, M. Bodur, and J. Naoum-Sawaya (2023)
-1. **An Enhanced Approximate Dynamic Programming Approach to On-demand Ride Pooling** [[link]](https://arxiv.org/pdf/2305.12028.pdf)\
-A. Dehghan, M. Cevik, and M. Bodur (2023)
 1. **A Feasibility Look to Two-stage Robust Optimization in Kidney Exchange** [[link]](https://arxiv.org/pdf/2211.09242.pdf)\
 C. Riascos, M. Bodur, and D. Aleman (2023)
 1. **Stochastic Dynamic Lot-sizing with Supplier-Driven Substitution and Service Level Constraints** [[link]](https://optimization-online.org/2023/01/stochastic-dynamic-lot-sizing-with-supplier-driven-substitution-and-service-level-constraints/)\
 N. Sereshti, M. Bodur, and J. Luedtke (2022)
-1. **Tightening Quadratic Convex Relaxations for the AC Optimal Transmission Switching Problem** [[link]](https://optimization-online.org/wp-content/uploads/2022/12/Tightening_qc_relaxation_for_acots_Guo_Nagarajan_Bodur.pdf)\
-C. Guo, H. Nagarajan, and M. Bodur (2022)
 {: reversed="reversed"}
 
 ## Journal Papers
+1. **Markov Chain-based Policies for Multi-stage Stochastic Integer Linear Programming with an Application to Disaster Relief Logistics** [[link]](https://arxiv.org/pdf/2207.14779)\
+M.P. Castro, M. Bodur, and Y. Song\
+*Manufacturing & Service Operations Management (minor revision submitted)* (2025)
+1. **Network Flow Models for Robust Binary Optimization with Selective Adaptability** [[link]](https://arxiv.org/pdf/2403.19471)\
+M. Bodur, T. Chan, I. Zhu (2025)\
+*INFORMS Journal on Computing (minor revision submitted)* (2025)
+1. **Extraboard transit operator scheduling considering driver absenteeism** [[link]](https://www.tandfonline.com/doi/full/10.1080/23249935.2025.2566439)\
+J. Song, A. Shalaby, and M. Bodur\
+*Transportmerica A: Transport Science* (2025)
+1. **An Enhanced Approximate Dynamic Programming Approach to On-demand Ride Pooling** [[link]](https://www.tandfonline.com/doi/abs/10.1080/21680566.2025.2551913)\
+A. Dehghan, M. Cevik, and M. Bodur\
+*Transportmerica B: Transport Dynamics* (2025)
+1. **Tightening Quadratic Convex Relaxations for the AC Optimal Transmission Switching Problem** [[link]](https://optimization-online.org/wp-content/uploads/2022/12/Tightening_qc_relaxation_for_acots_Guo_Nagarajan_Bodur.pdf)\
+C. Guo, H. Nagarajan, and M. Bodur\
+*INFORMS Journal on Computing* (2025)
 1. **Copositive Duality for Discrete Energy Markets** [[link]](https://optimization-online.org/wp-content/uploads/2021/01/COPDualityApp-1.pdf)\
 C. Guo, M. Bodur, and J.A. Taylor\
 *Management Science* (2025)
