@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Editorial Service
+- **Guest Editor:**
+  - [*INFORMS Journal on Data Science*](https://pubsonline.informs.org/journal/ijds), 2025-2026
 - **Associate Editor:**
   - [*INFORMS Journal on Computing*](https://pubsonline.informs.org/journal/ijoc), 2025-present
   - [*Operations Research Letters*](https://www.sciencedirect.com/journal/operations-research-letters), 2024-present
