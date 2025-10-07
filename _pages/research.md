@@ -43,7 +43,7 @@ A. Dehghan, M. Cevik, and M. Bodur\
 C. Guo, H. Nagarajan, and M. Bodur\
 *INFORMS Journal on Computing* (2025)
 1. **Copositive Duality for Discrete Energy Markets** [[link]](https://optimization-online.org/wp-content/uploads/2021/01/COPDualityApp-1.pdf)\
-C. Guo, M. Bodur, and J.A. Taylor\
+C. Guo, M. Bodur, and J. Taylor\
 *Management Science* (2025)
 1. **A Comprehensive Stochastic Programming Model for Transfer Synchronization in Transit Networks** [[link]](https://arxiv.org/pdf/2403.03130)\
 Z. Ansarilari, M. Bodur, and A. Shalaby\
