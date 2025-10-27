@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Selected Awards and Honors
-- *Finalist*, INFORMS PSOR Best Paper Competition (2025)
+- *Winner*, INFORMS PSOR Best Paper Competition (2025)
 - *Early Researcher Award*, Ontario Ministry of Colleges and Universities (2023)
 - *Honorable Mention*, MCDM Junior Researcher Best Paper Award Competition (2022)
 - *Early Career Teaching Award*, Mechanical and Industrial Engineering, University of Toronto (2019)
