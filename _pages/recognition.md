@@ -8,7 +8,7 @@ author_profile: true
 ## Selected Awards and Honors
 - *Winner*, INFORMS PSOR Best Paper Competition (2025)
 - *Early Researcher Award*, Ontario Ministry of Colleges and Universities (2023)
-- *Honorable Mention*, MCDM Junior Researcher Best Paper Award Competition (2022)
+- *Finalist*, MCDM Junior Researcher Best Paper Award Competition (2022)
 - *Early Career Teaching Award*, Mechanical and Industrial Engineering, University of Toronto (2019)
 - *Connaught New Researcher Award*, University of Toronto (2019-2020)
 - *Dean's Spark Professorship*, University of Toronto (2018-2021)
