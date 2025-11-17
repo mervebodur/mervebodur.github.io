@@ -29,12 +29,12 @@ N. Sereshti, M. Bodur, and J. Luedtke (2022)
 {: reversed="reversed"}
 
 ## Journal Papers
-1. **Markov Chain-based Policies for Multi-stage Stochastic Integer Linear Programming with an Application to Disaster Relief Logistics** [[link]](https://arxiv.org/pdf/2207.14779)\
-M.P. Castro, M. Bodur, and Y. Song\
-*Manufacturing & Service Operations Management (minor revision submitted)* (2025)
 1. **Network Flow Models for Robust Binary Optimization with Selective Adaptability** [[link]](https://arxiv.org/pdf/2403.19471)\
 M. Bodur, T. Chan, I. Zhu\
 *INFORMS Journal on Computing (minor revision submitted)* (2025)
+1. **Markov Chain-based Policies for Multi-stage Stochastic Integer Linear Programming with an Application to Disaster Relief Logistics** [[link]](https://arxiv.org/pdf/2207.14779)\
+M.P. Castro, M. Bodur, and Y. Song\
+*Manufacturing & Service Operations Management* (2025)
 1. **Extraboard transit operator scheduling considering driver absenteeism** [[link]](https://www.tandfonline.com/doi/full/10.1080/23249935.2025.2566439)\
 J. Song, A. Shalaby, and M. Bodur\
 *Transportmerica A: Transport Science* (2025)
