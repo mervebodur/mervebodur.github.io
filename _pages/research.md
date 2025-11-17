@@ -66,7 +66,7 @@ Z. Ansarilari, M. Bodur, and A. Shalaby\
 P . de Jager, D. Aleman, N. Baxter, C. Bell, M. Bodur, A. Calzavara, R. Campbell, and others\
 *PLOS One* (2024)
 1.  **Referral Patterns for Common Surgical Procedures in Ontario: A Cross-Sectional Population-Level Study** [[link]](https://pmc.ncbi.nlm.nih.gov/articles/PMC11649187/)\
-P . Seyedi, D. Aleman, N. Baxter, C. Bell, **M. Bodur**, A. Calzavara, R. Campbell, and others\
+P . Seyedi, D. Aleman, N. Baxter, C. Bell, M. Bodur, A. Calzavara, R. Campbell, and others\
 *Canadian Journal of Surgery* (2024)
 1. **Leveraging Decision Diagrams to Solve Two-stage Stochastic Programs with Binary Recourse and Logical Linking Constraints** [[link]](https://optimization-online.org/wp-content/uploads/2022/11/BDD_2SP.pdf)\
 M. MacNeil, and M. Bodur\
@@ -81,7 +81,7 @@ C. Riascos, M. Bodur, and D. Aleman\
 O. Şeker, M. Bodur, and H. Pouya\
 *IISE Transactions* (2023)
 1.  **Social Determinants of Access to Timely Elective Surgery in Ontario, Canada: A Cross-Sectional Population Level Study** [[link]](https://www.cmajopen.ca/content/11/6/E1164.short)\
-P. de Jager, D. Aleman, N. Baxter, C. Bell, **M. Bodur**, A. Calzavara, R. Campbell, and others\
+P. de Jager, D. Aleman, N. Baxter, C. Bell, M. Bodur, A. Calzavara, R. Campbell, and others\
 *Canadian Medical Association Open Access Journal* (2023)
 1. **Multiobjective optimization approaches for sector duration optimization problem in radiosurgery** [[link]](https://arxiv.org/pdf/2104.13878.pdf)\
 O. Seker, M. Cevik, M. Bodur, Y. Lee, M. Ruschin\
