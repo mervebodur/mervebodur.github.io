@@ -53,12 +53,24 @@ Z. Ansarilari, M. Bodur, and A. Shalaby\
 1. **Dynamic Task Allocation in Intelligent Warehouses with Hybrid Workforce of Automated Guided Vehicles and Human Pickers** [[link]](https://dl.acm.org/doi/10.1145/3716862)\
 A. Dehghan, M. Cevik, and M. Bodur\
 *ACM Transactions on Evolutionary Learning and Optimization* (2025)
+1.  **Effect of Single-Entry Referral Models and Team-Based Care on Wait Times for Hip and Knee Joint Replacement in Ontario: A Simulation Study** [[link]](https://www.cmaj.ca/content/197/19/E524.short)\
+P. Seyedi, D. Aleman, N. N. Baxter, C. M. Bell, M. Bodur, A. Calzavara, R. Campbell, and others\
+*CMAJ* (2025)
 1. **Approximate Dynamic Programming for Crowd-shipping with In-store Customers** [[link]](http://www.optimization-online.org/DB_FILE/2021/09/8602.pdf)\
 K. Mousavi, M. Bodur, M. Cevik, and M.J. Roorda\
 *Transportation Research Part B* (2024)
 1. **A Novel Model for Transfer Synchronization in Transit Networks and a Lagrangian-based Heuristic Solution Method** [[link]](https://www.sciencedirect.com/science/article/pii/S037722172400184X)\
 Z. Ansarilari, M. Bodur, and A. Shalaby\
 *European Journal of Operational Research* (2024)
+1.  **Surgeon- and Hospital-Level Variation in Wait Times for Scheduled Non-Urgent Surgery in Ontario, Canada: A Cross-Sectional Population-Based Study** [[link]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307845)\
+P . de Jager, D. Aleman, N. Baxter, C. Bell, M. Bodur, A. Calzavara, R. Campbell, and others\
+*PLOS One* (2024)
+1.  **Referral Patterns for Common Surgical Procedures in Ontario: A Cross-Sectional Population-Level Study** [[link]](https://pmc.ncbi.nlm.nih.gov/articles/PMC11649187/)\
+P . Seyedi, D. Aleman, N. Baxter, C. Bell, **M. Bodur**, A. Calzavara, R. Campbell, and others\
+*Canadian Journal of Surgery* (2024)
+1.  **Social Determinants of Access to Timely Elective Surgery in Ontario, Canada: A Cross-Sectional Population Level Study** [[link]](https://www.cmajopen.ca/content/11/6/E1164.short)\
+P. de Jager, D. Aleman, N. Baxter, C. Bell, **M. Bodur**, A. Calzavara, R. Campbell, and others\
+Canadian Medical Association Open Access Journal* (2023)
 1. **Leveraging Decision Diagrams to Solve Two-stage Stochastic Programs with Binary Recourse and Logical Linking Constraints** [[link]](https://optimization-online.org/wp-content/uploads/2022/11/BDD_2SP.pdf)\
 M. MacNeil, and M. Bodur\
 *European Journal of Operational Research* (2023)
