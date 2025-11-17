@@ -189,6 +189,7 @@ Z. Ansarilari, M. M. Nesheli, S. Srikukenthiran, M. Bodur, and A. Shalaby\
   - Zoha Sherkat-Masoumi, Ph.D. student, University of Toronto
   - Haoyuan Xue, Ph.D. student, University of Toronto
   - Jilin Song, Ph.D. student, University of Toronto (co-supervisor: Prof. A. Shalaby)
+  - Arash Dehghan, Postdoctoral fellow, Toronto Metropolitan University (co-supervisor: Prof. A. Alnaggar, Prof. M. Cevik)
 
 - *Former supervisees*:
   - Ph.D. students (and graduation years): [Cheng Guo](https://chengg04.github.io/) (2021), Zahra Ansarilari (2022, co-supervisor: Prof. A. Shalaby), [Maryam Daryalal](https://www.daryalal.aroralab.ca) (2022), Kianoush Mousavi (2022, co-supervisor: Prof. M. Roorda), Narges Sereshti (2022, visiting PhD student), Lizeth Carolina Riascos Alvarez (2023, co-supervisor: Prof. D. Aleman), [Ian Zhu](https://www.ianyzhu.com/) (2023, co-supervisor: Prof. T. Chan), [Moira MacNeil](https://moiramacneil.com) (2025, co-supervisor: Prof. A. Deza), Arash Dehghan (2025, co-supervisor: Prof. M. Cevik)
