@@ -43,7 +43,8 @@ author_profile: true
 
 ## Other Professional Service
 - Council member, *Mathematical Optimization Society*, 2024-present
-- Vice-Chair/Chair-Elect, *INFORMS Computing Society (ICS)*, 2024-present
+- Chair, *INFORMS Computing Society (ICS)*, 2026-2027
+- Vice-Chair, *INFORMS Computing Society (ICS)*, 2024-2025
 - Chair, *INFORMS Optimization Society (IOS) Young Researcher Award*, 2025
 - Committee member, *INFORMS HAS Student Paper Competition*, 2025
 - Committee member, *INFORMS Optimization Society (IOS) Young Researcher Award*, 2024
