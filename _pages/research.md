@@ -24,15 +24,16 @@ M. Daryalal, A.N. Arslan, and M. Bodur (2023)
 N. Tanoumand, M. Bodur, and J. Naoum-Sawaya (2023)
 1. **A Feasibility Look to Two-stage Robust Optimization in Kidney Exchange** [[link]](https://arxiv.org/pdf/2211.09242.pdf)\
 C. Riascos, M. Bodur, and D. Aleman (2023)
-1. **Stochastic Dynamic Lot-sizing with Supplier-Driven Substitution and Service Level Constraints** [[link]](https://optimization-online.org/2023/01/stochastic-dynamic-lot-sizing-with-supplier-driven-substitution-and-service-level-constraints/)\
-N. Sereshti, M. Bodur, and J. Luedtke (2022)
 {: reversed="reversed"}
 
 ## Journal Papers
 1. **Network Flow Models for Robust Binary Optimization with Selective Adaptability** [[link]](https://arxiv.org/pdf/2403.19471)\
 M. Bodur, T. Chan, I. Zhu\
 *INFORMS Journal on Computing (minor revision submitted)* (2025)
-1. **Markov Chain-based Policies for Multi-stage Stochastic Integer Linear Programming with an Application to Disaster Relief Logistics** [[link]](https://arxiv.org/pdf/2207.14779)\
+1. **Stochastic Dynamic Lot-sizing with Supplier-Driven Substitution and Service Level Constraints** [[link]](https://optimization-online.org/2023/01/stochastic-dynamic-lot-sizing-with-supplier-driven-substitution-and-service-level-constraints/)\
+N. Sereshti, M. Bodur, and J. Luedtke\
+*European Journal of Operational Research* (2026)
+1. **Markov Chain-based Policies for Multi-stage Stochastic Integer Linear Programming with an Application to Disaster Relief Logistics** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/msom.2023.0658)\
 M.P. Castro, M. Bodur, and Y. Song\
 *Manufacturing & Service Operations Management* (2025)
 1. **Extraboard transit operator scheduling considering driver absenteeism** [[link]](https://www.tandfonline.com/doi/full/10.1080/23249935.2025.2566439)\
