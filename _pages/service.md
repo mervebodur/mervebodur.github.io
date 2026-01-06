@@ -19,7 +19,7 @@ author_profile: true
 - Program committee member, *Conference on Integer Programming and Combinatorial Optimization (IPCO)*, [2026](https://events.math.unipd.it/ipco2026), [2023](https://optimization.discovery.wisc.edu/ipco-2023-madison/)
 - Program committee member, *International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR)*, [2026](https://sites.google.com/view/cpaior2026), [2025](https://sites.google.com/view/cpaior2025), [2024](https://sites.google.com/view/cpaior2024), [2023](https://sites.google.com/view/cpaior2023)
 - Local organizing committee member, *[SIAM Conference on Optimization](https://www.siam.org/conferences-events/siam-conferences/op26)*, 2026
-- Cluster chair, INFORMS Computing Society (ICS), *[2025 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/)*, *[2024 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/)*
+- Cluster chair, INFORMS Computing Society (ICS), INFORMS Annual Meeting, *[2025](https://meetings.informs.org/wordpress/annual/)*, *[2024](https://meetings.informs.org/wordpress/seattle2024/)*
 - Scientific committee member, *[XVI Workshop on Global Optimization](https://sites.google.com/view/stogo25/)*, 2025
 - Organizing committee member, *[18th  INFORMS Computing Society (ICS) Conference](https://sites.google.com/view/ics-2025/)*, 2025
 - Co-organizer, Discrete Stochastic Programming stream of the Optimization under Uncertainty cluster, *[25th International Symposium on Mathematical Programming (ISMP)](https://ismp2024.gerad.ca/)*, 2024
