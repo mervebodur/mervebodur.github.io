@@ -16,7 +16,7 @@ author_profile: true
 - **Referee**: Mathematical Programming, Operations Research, Management Science, Mathematics of Operations Research, Manufacturing and Service Operations Management, Production and Operations Management, INFORMS Journal on Computing, Mathematical Programming Computation, Transportation Science, European Journal of Operational Research, IISE Transactions, INFORMS Journal on Optimization, Journal of Optimization Theory and Applications and others.
 
 ## Conferences
-- Program committee member, *Conference on Integer Programming and Combinatorial Optimization (IPCO)*, [2026](https://events.math.unipd.it/ipco2026), [2023](https://events.math.unipd.it/ipco2023)
+- Program committee member, *Conference on Integer Programming and Combinatorial Optimization (IPCO)*, [2026](https://events.math.unipd.it/ipco2026), [2023](https://optimization.discovery.wisc.edu/ipco-2023-madison/)
 - Program committee member, *International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR)*, [2026](https://sites.google.com/view/cpaior2026), [2025](https://sites.google.com/view/cpaior2025), [2024](https://sites.google.com/view/cpaior2024), [2023](https://sites.google.com/view/cpaior2023)
 - Local organizing committee member, *[SIAM Conference on Optimization](https://www.siam.org/conferences-events/siam-conferences/op26)*, 2026
 - Cluster chair, INFORMS Computing Society (ICS), *[2025 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/)*, 2025
