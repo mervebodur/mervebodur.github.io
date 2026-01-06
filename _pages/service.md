@@ -23,8 +23,6 @@ author_profile: true
 - Scientific committee member, *[XVI Workshop on Global Optimization](https://sites.google.com/view/stogo25/)*, 2025
 - Organizing committee member, *[18th  INFORMS Computing Society (ICS) Conference](https://sites.google.com/view/ics-2025/)*, 2025
 - Co-organizer, Discrete Stochastic Programming stream of the Optimization under Uncertainty cluster, *[25th International Symposium on Mathematical Programming (ISMP)](https://ismp2024.gerad.ca/)*, 2024
-- Cluster chair, INFORMS Computing Society (ICS), *[2024 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/)*, 2024
-- Program committee member, *[24th Conference on Integer Programming and Combinatorial Optimization (IPCO)](https://optimization.discovery.wisc.edu/ipco-2023-madison/)*, 2023
 - Organizing committee member, *[Workshop on Quantum Computing and Operations Research](https://sites.google.com/view/qcor22/home)*, 2022
 - Cluster co-chair, Big Data Analytics and Optimization, *[CORS-INFORMS International Conference](https://meetings.informs.org/wordpress/2022international/)*, 2022
 - Program committee member, *[International Symposium on Combinatorial Optimization (ISCO)](https://isco2022.sciencesconf.org)*, 2022
@@ -32,8 +30,7 @@ author_profile: true
 - Cluster co-chair, Integer Programming, *[INFORMS Computing Society (ICS) Conference](https://ics2022tampa.eng.usf.edu)*, 2022
 - Cluster co-chair, *[Canadian Operational Research Society (CORS) 62th Annual Conference](https://uwaterloo.ca/canadian-operational-research-society-conference/)*, 2021
 - Program committee member, *[Canadian Operational Research Society (CORS) 62th Annual Conference](https://uwaterloo.ca/canadian-operational-research-society-conference/)*, 2021
-- Cluster chair, IOS Integer and Discrete Optimization, *[2021 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/anaheim2021/)*, 2021 
-- Cluster chair, IOS Integer and Discrete Optimization, *[2020 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual2020/)*, 2020
+- Cluster chair, IOS Integer and Discrete Optimization, *[2021 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/anaheim2021/)*, *[2020 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual2020/)*
 - Cluster co-chair, INFORMS Computing Society (ICS), *[2019 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2019/#_gl=1*3owtft*_gcl_au*MTEwODI4NDgxNi4xNjk4NzYwOTg2)*, 2019
 - Co-chair, *[Workshop on Constraint Solving and Special Purpose Hardware Architectures](https://sites.google.com/view/cphardware2019/) at the 25th International Conference on Principles and Practice of Constraint Programming*, 2019
 - Program committee member, *[2017 Mixed Integer Programming (MIP) Workshop](https://web.archive.org/web/20220709054916/https://sites.google.com/site/mipworkshop2017/home)*, 2017
