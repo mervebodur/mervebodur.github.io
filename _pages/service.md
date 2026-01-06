@@ -16,18 +16,15 @@ author_profile: true
 - **Referee**: Mathematical Programming, Operations Research, Management Science, Mathematics of Operations Research, Manufacturing and Service Operations Management, Production and Operations Management, INFORMS Journal on Computing, Mathematical Programming Computation, Transportation Science, European Journal of Operational Research, IISE Transactions, INFORMS Journal on Optimization, Journal of Optimization Theory and Applications and others.
 
 ## Conferences
-- Program committee member, *[27th Conference on Integer Programming and Combinatorial Optimization (IPCO)](https://events.math.unipd.it/ipco2026)*, 2026
-- Program committee member, International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR), [2024](https://sites.google.com/view/cpaior2024), [2025](https://sites.google.com/view/cpaior2025)
+- Program committee member, *Conference on Integer Programming and Combinatorial Optimization (IPCO)*, [2026](https://events.math.unipd.it/ipco2026), [2023](https://events.math.unipd.it/ipco2023)
+- Program committee member, *International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR)*, [2026](https://sites.google.com/view/cpaior2026), [2025](https://sites.google.com/view/cpaior2025), [2024](https://sites.google.com/view/cpaior2024), [2023](https://sites.google.com/view/cpaior2023)
 - Local organizing committee member, *[SIAM Conference on Optimization](https://www.siam.org/conferences-events/siam-conferences/op26)*, 2026
 - Cluster chair, INFORMS Computing Society (ICS), *[2025 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/)*, 2025
 - Scientific committee member, *[XVI Workshop on Global Optimization](https://sites.google.com/view/stogo25/)*, 2025
 - Organizing committee member, *[18th  INFORMS Computing Society (ICS) Conference](https://sites.google.com/view/ics-2025/)*, 2025
-- Program committee member, *[22nd International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR)](https://sites.google.com/view/cpaior2025)*, 2025
-- Program committee member, *[21st International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR)](https://sites.google.com/view/cpaior2024)*, 2024
 - Co-organizer, Discrete Stochastic Programming stream of the Optimization under Uncertainty cluster, *[25th International Symposium on Mathematical Programming (ISMP)](https://ismp2024.gerad.ca/)*, 2024
 - Cluster chair, INFORMS Computing Society (ICS), *[2024 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/)*, 2024
 - Program committee member, *[24th Conference on Integer Programming and Combinatorial Optimization (IPCO)](https://optimization.discovery.wisc.edu/ipco-2023-madison/)*, 2023
-- Program committee member, *[20th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR)](https://sites.google.com/view/cpaior2023)*, 2023
 - Organizing committee member, *[Workshop on Quantum Computing and Operations Research](https://sites.google.com/view/qcor22/home)*, 2022
 - Cluster co-chair, Big Data Analytics and Optimization, *[CORS-INFORMS International Conference](https://meetings.informs.org/wordpress/2022international/)*, 2022
 - Program committee member, *[International Symposium on Combinatorial Optimization (ISCO)](https://isco2022.sciencesconf.org)*, 2022
