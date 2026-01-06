@@ -17,6 +17,7 @@ author_profile: true
 
 ## Conferences
 - Program committee member, *[27th Conference on Integer Programming and Combinatorial Optimization (IPCO)](https://events.math.unipd.it/ipco2026)*, 2026
+- Program committee member, International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR), [2024](https://sites.google.com/view/cpaior2024), [2025](https://sites.google.com/view/cpaior2025)
 - Local organizing committee member, *[SIAM Conference on Optimization](https://www.siam.org/conferences-events/siam-conferences/op26)*, 2026
 - Cluster chair, INFORMS Computing Society (ICS), *[2025 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/)*, 2025
 - Scientific committee member, *[XVI Workshop on Global Optimization](https://sites.google.com/view/stogo25/)*, 2025
