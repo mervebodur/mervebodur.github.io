@@ -38,10 +38,10 @@ M.P. Castro, M. Bodur, and Y. Song\
 *Manufacturing & Service Operations Management* (2025)
 1. **Extraboard transit operator scheduling considering driver absenteeism** [[link]](https://www.tandfonline.com/doi/full/10.1080/23249935.2025.2566439)\
 J. Song, A. Shalaby, and M. Bodur\
-*Transportmerica A: Transport Science* (2025)
+*Transportmetrica A: Transport Science* (2025)
 1. **An Enhanced Approximate Dynamic Programming Approach to On-demand Ride Pooling** [[link]](https://www.tandfonline.com/doi/abs/10.1080/21680566.2025.2551913)\
 A. Dehghan, M. Cevik, and M. Bodur\
-*Transportmerica B: Transport Dynamics* (2025)
+*Transportmetrica B: Transport Dynamics* (2025)
 1. **Tightening Quadratic Convex Relaxations for the AC Optimal Transmission Switching Problem** [[link]](https://optimization-online.org/wp-content/uploads/2022/12/Tightening_qc_relaxation_for_acots_Guo_Nagarajan_Bodur.pdf)\
 C. Guo, H. Nagarajan, and M. Bodur\
 *INFORMS Journal on Computing* (2025)
