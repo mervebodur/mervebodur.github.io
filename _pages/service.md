@@ -9,6 +9,7 @@ author_profile: true
 - **Guest Editor:**
   - [*INFORMS Journal on Data Science*](https://pubsonline.informs.org/journal/ijds), 2025-2026
 - **Associate Editor:**
+  - [*Mathematical Programming Computation*](https://link.springer.com/journal/12532), 2026-present
   - [*INFORMS Journal on Computing*](https://pubsonline.informs.org/journal/ijoc), 2025-present
   - [*Operations Research Letters*](https://www.sciencedirect.com/journal/operations-research-letters), 2024-present
   - [*Omega*](https://www.sciencedirect.com/journal/omega), 2024-present
