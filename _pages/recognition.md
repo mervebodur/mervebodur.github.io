@@ -17,7 +17,7 @@ author_profile: true
 ## Invited Plenaries, Keynotes and Tutorials
 - *Methodological Advances in Two-stage Stochastic Programming*,\
 *Recent Advances in Solving Multistage Stochastic Mixed-integer Programs*\
-**51st Conference on the Mathematics of Operations Research** (upcoming), Utrecht, Netherlands, January 2026.
+**51st Conference on the Mathematics of Operations Research**, Utrecht, Netherlands, January 2026.
 - *Decision Rules for Sequential Decision-making Under Uncertainty*\
 **10th VOCAL Optimization Conference: Advanced Algorithms**, Budapest, Hungary, June 2024.
 - *A Walk Through the ACOPF World*\
