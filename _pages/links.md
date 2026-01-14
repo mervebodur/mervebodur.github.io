@@ -8,6 +8,7 @@ author_profile: true
 - [Optimization Online](https://optimization-online.org/)
 - [NEOS Server for Optimization](https://neos-server.org/neos/)
 - [Stochastic Programming Society](https://stoprog.org/)
+- [Mathematical Optimization Society](https://www.mathopt.org/)
 - [Mixed Integer Programming Society](https://www.mixedinteger.org/)
 - [Discrete Optimization Talks (DOTs)](https://talks.discreteopt.com/)
 - [Robust Optimization Webinar (ROW)](https://sites.google.com/view/row-series/home)
