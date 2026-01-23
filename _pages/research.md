@@ -193,8 +193,8 @@ Z. Ansarilari, M. M. Nesheli, S. Srikukenthiran, M. Bodur, and A. Shalaby\
   - Arash Dehghan, Postdoctoral fellow, Toronto Metropolitan University (co-supervisor: Prof. A. Alnaggar, Prof. M. Cevik)
 
 - *Former supervisees*:
-  - Ph.D. students (and graduation years): [Cheng Guo](https://chengg04.github.io/) (2021), Zahra Ansarilari (2022, co-supervisor: Prof. A. Shalaby), [Maryam Daryalal](https://www.daryalal.aroralab.ca) (2022), Kianoush Mousavi (2022, co-supervisor: Prof. M. Roorda), Narges Sereshti (2022, visiting PhD student), Lizeth Carolina Riascos Alvarez (2023, co-supervisor: Prof. D. Aleman), [Ian Zhu](https://www.ianyzhu.com/) (2023, co-supervisor: Prof. T. Chan), [Moira MacNeil](https://moiramacneil.com) (2025, co-supervisor: Prof. A. Deza), Arash Dehghan (2025, co-supervisor: Prof. M. Cevik)
-  - M.A.Sc. students (and graduation years): Stefana Filipova (2018, co-supervisor: Prof. C. Beck), Moira MacNeil (2019), Juyoung Wang (2021, co-supervisor: Prof. M. Cevik), Manion Anderson (2021, co-supervisor: Prof. V. Sarhangian), Neda Tanoumand (2022, co-supervisor: Prof. J. Naoum-Sawaya)
+  - Ph.D. students (and graduation years): [Cheng Guo](https://chengg04.github.io/) (2021), Zahra Ansarilari (2022), [Maryam Daryalal](https://www.daryalal.aroralab.ca) (2022), Kianoush Mousavi (2022), Narges Sereshti (2022, visiting PhD student), Lizeth Carolina Riascos Alvarez (2023), [Ian Zhu](https://www.ianyzhu.com/) (2023), [Moira MacNeil](https://moiramacneil.com) (2025), Arash Dehghan (2025)
+  - M.A.Sc. students (and graduation years): Stefana Filipova (2018), Moira MacNeil (2019), Juyoung Wang (2021), Manion Anderson (2021), Neda Tanoumand (2022)
   - Postdoctoral fellows: Hamed Pouya (2019-2020), [Margarita Castro](https://sites.google.com/view/margaritacastro) (2020-2021), Oylum Seker (2019-2022)
   - Senior undergraduate students (and graduation years): Anna Deza (2020), Haoyuan Xue (2022), Lorna Licollari (2023), Daniel Deza (2024)
 
