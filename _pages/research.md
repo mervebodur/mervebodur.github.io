@@ -29,7 +29,7 @@ C. Riascos, M. Bodur, and D. Aleman (2023)
 ## Journal Papers
 1. **Network Flow Models for Robust Binary Optimization with Selective Adaptability** [[link]](https://arxiv.org/pdf/2403.19471)\
 M. Bodur, T. Chan, I. Zhu\
-*INFORMS Journal on Computing (minor revision submitted)* (2026)
+*INFORMS Journal on Computing* (2026)
 1. **Stochastic Dynamic Lot-sizing with Supplier-Driven Substitution and Service Level Constraints** [[link]](https://optimization-online.org/2023/01/stochastic-dynamic-lot-sizing-with-supplier-driven-substitution-and-service-level-constraints/)\
 N. Sereshti, M. Bodur, and J. Luedtke\
 *European Journal of Operational Research* (2026)
