@@ -20,10 +20,6 @@ M.P. Castro, M. Bodur, and A. Shalaby (2024)
 A. Dehghan, M. Cevik, and M. Bodur (2023)
 1. **Two-stage and Lagrangian Dual Decision Rules for Multistage Adaptive Robust Optimization** [[link]](https://arxiv.org/pdf/2305.06190)\
 M. Daryalal, A.N. Arslan, and M. Bodur (2023)
-1. **Data-driven Distributionally Robust Optimization: Intersecting Ambiguity Sets, Performance Analysis and Tractability** [[link]](https://optimization-online.org/wp-content/uploads/2023/04/DRO.pdf)\
-N. Tanoumand, M. Bodur, and J. Naoum-Sawaya (2023)
-1. **A Feasibility Look to Two-stage Robust Optimization in Kidney Exchange** [[link]](https://arxiv.org/pdf/2211.09242.pdf)\
-C. Riascos, M. Bodur, and D. Aleman (2023)
 {: reversed="reversed"}
 
 ## Journal Papers
