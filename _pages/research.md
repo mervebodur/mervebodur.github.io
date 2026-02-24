@@ -26,7 +26,7 @@ C. Riascos, M. Bodur, and D. Aleman (2023)
 
 ## Journal Papers
 1. **Network Flow Models for Robust Binary Optimization with Selective Adaptability** [[link]](https://arxiv.org/pdf/2403.19471)\
-M. Bodur, T. Chan, I. Zhu\
+M. Bodur, T. Chan, and I. Zhu\
 *INFORMS Journal on Computing* (2026)
 1. **Neural Approximate Dynamic Programming for the Ultra-fast Order Dispatching Problem** [[link]](https://optimization-online.org/wp-content/uploads/2023/11/neuradp_dispatching.pdf)\
 A. Dehghan, M. Cevik, and M. Bodur\
