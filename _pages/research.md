@@ -16,8 +16,6 @@ D. Bish, E. Bish, M. Bodur, and B. Gorgulu (2025)
 A. Dehghan, M. Cevik, M. Bodur, and B. Ghaddar (2025)
 1. **Incorporating Service Reliability in Multi-depot Vehicle Scheduling** [[link]](https://arxiv.org/pdf/2407.00836)\
 M.P. Castro, M. Bodur, and A. Shalaby (2024)
-1. **Neural Approximate Dynamic Programming for the Ultra-fast Order Dispatching Problem** [[link]](https://optimization-online.org/wp-content/uploads/2023/11/neuradp_dispatching.pdf)\
-A. Dehghan, M. Cevik, and M. Bodur (2023)
 1. **Two-stage and Lagrangian Dual Decision Rules for Multistage Adaptive Robust Optimization** [[link]](https://arxiv.org/pdf/2305.06190)\
 M. Daryalal, A.N. Arslan, and M. Bodur (2023)
 1. **Data-driven Distributionally Robust Optimization: Intersecting Ambiguity Sets, Performance Analysis and Tractability** [[link]](https://optimization-online.org/wp-content/uploads/2023/04/DRO.pdf)\
@@ -30,7 +28,10 @@ C. Riascos, M. Bodur, and D. Aleman (2023)
 1. **Network Flow Models for Robust Binary Optimization with Selective Adaptability** [[link]](https://arxiv.org/pdf/2403.19471)\
 M. Bodur, T. Chan, I. Zhu\
 *INFORMS Journal on Computing* (2026)
-1. **Stochastic Dynamic Lot-sizing with Supplier-Driven Substitution and Service Level Constraints** [[link]](https://optimization-online.org/2023/01/stochastic-dynamic-lot-sizing-with-supplier-driven-substitution-and-service-level-constraints/)\
+1. **Neural Approximate Dynamic Programming for the Ultra-fast Order Dispatching Problem** [[link]](https://optimization-online.org/wp-content/uploads/2023/11/neuradp_dispatching.pdf)\
+A. Dehghan, M. Cevik, and M. Bodur\
+*IISE Transactions* (2026)
+1. **Stochastic Dynamic Lot-sizing with Supplier-Driven Substitution and Service Level Constraints** [[link]](https://www.sciencedirect.com/science/article/pii/S0377221726000056)\
 N. Sereshti, M. Bodur, and J. Luedtke\
 *European Journal of Operational Research* (2026)
 1. **Markov Chain-based Policies for Multi-stage Stochastic Integer Linear Programming with an Application to Disaster Relief Logistics** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/msom.2023.0658)\
