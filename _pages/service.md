@@ -15,7 +15,7 @@ author_profile: true
   - [*Operations Research Letters*](https://www.sciencedirect.com/journal/operations-research-letters), 2024-present
   - [*Omega*](https://www.sciencedirect.com/journal/omega), 2024-present
   - [*INFOR: Information Systems and Operational Research*](https://www.tandfonline.com/journals/tinf20), 2021 - present
-- **Referee**: Mathematical Programming, Operations Research, Management Science, Mathematics of Operations Research, Manufacturing and Service Operations Management, Production and Operations Management, INFORMS Journal on Computing, Mathematical Programming Computation, Transportation Science, European Journal of Operational Research, IISE Transactions, INFORMS Journal on Optimization, Journal of Optimization Theory and Applications and others.
+<!-- - **Referee**: Mathematical Programming, Operations Research, Management Science, Mathematics of Operations Research, Manufacturing and Service Operations Management, Production and Operations Management, INFORMS Journal on Computing, Mathematical Programming Computation, Transportation Science, European Journal of Operational Research, IISE Transactions, INFORMS Journal on Optimization, Journal of Optimization Theory and Applications and others. -->
 
 ## Professional Society Service
 - Council member, *Mathematical Optimization Society*, 2024-present
