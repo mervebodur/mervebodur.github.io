@@ -9,6 +9,7 @@ author_profile: true
 - **Guest Editor:**
   - [*INFORMS Journal on Data Science*](https://pubsonline.informs.org/journal/ijds), 2025-2026
 - **Associate Editor:**
+  - [*Manufacturing & Service Operations Management*](https://pubsonline.informs.org/journal/msom), 2026-present
   - [*Mathematical Programming Computation*](https://link.springer.com/journal/12532), 2026-present
   - [*INFORMS Journal on Computing*](https://pubsonline.informs.org/journal/ijoc), 2025-present
   - [*Operations Research Letters*](https://www.sciencedirect.com/journal/operations-research-letters), 2024-present
@@ -48,7 +49,8 @@ author_profile: true
 - Committee member, *George Nicholson Student Paper Competition*, 2024-2025
 - Committee member, *INFORMS Journal on Optimization Editor-in-Chief Search*, 2024
 - Committee member, *[Refereed Papers for INFORMS Optimization Society Conference](https://ios2024.rice.edu/refereed-papers/)*, 2024
-- Committee member, *COSP (the elected board of Stochastic Programming Society)*, 2023-Present
+- Treasurer, *COSP (the elected board of Stochastic Programming Society)*, 2025-Present
+- Committee member, *COSP (the elected board of Stochastic Programming Society)*, 2023-2025
 - Committee member, *INFORMS Optimization Society Student Paper Prize*, 2023
 - Reviewer, *CORS Open Student Paper Competition*, 2022
 - Committee member, *INFORMS Computing Society Student Paper Prize*, 2021
