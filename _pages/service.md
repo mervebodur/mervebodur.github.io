@@ -26,6 +26,7 @@ author_profile: true
 - Scientific committee member, *[XVI Workshop on Global Optimization](https://sites.google.com/view/stogo25/)*, 2025
 - Organizing committee member, *[18th  INFORMS Computing Society (ICS) Conference](https://sites.google.com/view/ics-2025/)*, 2025
 - Co-organizer, Discrete Stochastic Programming stream, *[25th International Symposium on Mathematical Programming (ISMP)](https://ismp2024.gerad.ca/)*, 2024
+- Committee member, *[Refereed Papers for INFORMS Optimization Society Conference](https://ios2024.rice.edu/refereed-papers/)*, 2024
 - Organizing committee member, *[Workshop on Quantum Computing and Operations Research](https://sites.google.com/view/qcor22/home)*, 2022
 - Cluster co-chair, Big Data Analytics and Optimization, *[CORS-INFORMS International Conference](https://meetings.informs.org/wordpress/2022international/)*, 2022
 - Program committee member, *[International Symposium on Combinatorial Optimization (ISCO)](https://isco2022.sciencesconf.org)*, 2022
@@ -38,23 +39,23 @@ author_profile: true
 - Co-chair, *[Workshop on Constraint Solving and Special Purpose Hardware Architectures](https://sites.google.com/view/cphardware2019/) at the 25th International Conference on Principles and Practice of Constraint Programming*, 2019
 - Program committee member, *[2017 Mixed Integer Programming (MIP) Workshop](https://web.archive.org/web/20220709054916/https://sites.google.com/site/mipworkshop2017/home)*, 2017
 
-
-## Other Professional Service
+## Professional Society Service
 - Council member, *Mathematical Optimization Society*, 2024-present
 - Chair, *INFORMS Computing Society (ICS)*, 2026-2027
 - Vice-Chair, *INFORMS Computing Society (ICS)*, 2024-2025
+- Treasurer, *COSP (the elected board of Stochastic Programming Society)*, 2025-Present
+- Committee member, *COSP (the elected board of Stochastic Programming Society)*, 2023-2025
+- Committee member, *INFORMS Journal on Optimization Editor-in-Chief Search*, 2024
+- Vice Chair, Integer and Discrete Optimization, *INFORMS Optimization Society (IOS)*, 2020-2021
+
+## Review Committees
 - Chair, *INFORMS Optimization Society (IOS) Young Researcher Award*, 2025
 - Committee member, *INFORMS HAS Student Paper Competition*, 2025
 - Committee member, *INFORMS Optimization Society (IOS) Young Researcher Award*, 2024
 - Committee member, *INFORMS Computing Society (ICS) Distinguished Service Award*, 2024
-- Committee member, *George Nicholson Student Paper Competition*, 2024-2025
-- Committee member, *INFORMS Journal on Optimization Editor-in-Chief Search*, 2024
-- Committee member, *[Refereed Papers for INFORMS Optimization Society Conference](https://ios2024.rice.edu/refereed-papers/)*, 2024
-- Treasurer, *COSP (the elected board of Stochastic Programming Society)*, 2025-Present
-- Committee member, *COSP (the elected board of Stochastic Programming Society)*, 2023-2025
+- Committee member, *INFORMS George Nicholson Student Paper Competition*, 2024-2025
 - Committee member, *INFORMS Optimization Society Student Paper Prize*, 2023
 - Reviewer, *CORS Open Student Paper Competition*, 2022
-- Committee member, *INFORMS Computing Society Student Paper Prize*, 2021
+- Committee member, *INFORMS Computing Society (ICS) Student Paper Prize*, 2021
 - Reviewer, *CORS Open Student Paper Competition*, 2021
 - Judge, *INFORMS Poster Competition*, 2021
-- Vice Chair, Integer and Discrete Optimization, *INFORMS Optimization Society (IOS)*, 2020-2021
