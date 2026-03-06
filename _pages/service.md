@@ -9,7 +9,7 @@ author_profile: true
 - **Guest Editor:**
   - [*INFORMS Journal on Data Science*](https://pubsonline.informs.org/journal/ijds), 2025-2026
 
-- [*Manufacturing & Service Operations Management*](https://pubsonline.informs.org/journal/msom)\\
+- [*Manufacturing & Service Operations Management*](https://pubsonline.informs.org/journal/msom)\
 Associate Editor, 2026-present
   - [*Mathematical Programming Computation*](https://link.springer.com/journal/12532), 2026-present
   - [*INFORMS Journal on Computing*](https://pubsonline.informs.org/journal/ijoc), 2025-present
