@@ -17,6 +17,27 @@ author_profile: true
   - [*INFOR: Information Systems and Operational Research*](https://www.tandfonline.com/journals/tinf20), 2021 - present
 - **Referee**: Mathematical Programming, Operations Research, Management Science, Mathematics of Operations Research, Manufacturing and Service Operations Management, Production and Operations Management, INFORMS Journal on Computing, Mathematical Programming Computation, Transportation Science, European Journal of Operational Research, IISE Transactions, INFORMS Journal on Optimization, Journal of Optimization Theory and Applications and others.
 
+## Professional Society Service
+- Council member, *Mathematical Optimization Society*, 2024-present
+- Chair, *INFORMS Computing Society (ICS)*, 2026-2027
+- Vice-Chair, *INFORMS Computing Society (ICS)*, 2024-2025
+- Treasurer, *COSP (the elected board of Stochastic Programming Society)*, 2025-Present
+- Committee member, *COSP (the elected board of Stochastic Programming Society)*, 2023-2025
+- Committee member, *INFORMS Journal on Optimization Editor-in-Chief Search*, 2024
+- Vice Chair, Integer and Discrete Optimization, *INFORMS Optimization Society (IOS)*, 2020-2021
+
+## Review Committees
+- Chair, *INFORMS Optimization Society (IOS) Young Researcher Award*, 2025
+- Committee member, *INFORMS HAS Student Paper Competition*, 2025
+- Committee member, *INFORMS Optimization Society (IOS) Young Researcher Award*, 2024
+- Committee member, *INFORMS Computing Society (ICS) Distinguished Service Award*, 2024
+- Committee member, *INFORMS George Nicholson Student Paper Competition*, 2024-2025
+- Committee member, *INFORMS Optimization Society Student Paper Prize*, 2023
+- Reviewer, *CORS Open Student Paper Competition*, 2022
+- Committee member, *INFORMS Computing Society (ICS) Student Paper Prize*, 2021
+- Reviewer, *CORS Open Student Paper Competition*, 2021
+- Judge, *INFORMS Poster Competition*, 2021
+
 ## Conferences
 - Co-organizer, Stochastic Optimization stream, *[26th International Symposium on Mathematical Programming (ISMP)](https://ismp2027.mathopt.nl/)*, 2027
 - Program committee member, *Conference on Integer Programming and Combinatorial Optimization (IPCO)*, [2026](https://events.math.unipd.it/ipco2026), [2023](https://optimization.discovery.wisc.edu/ipco-2023-madison/)
@@ -38,24 +59,3 @@ author_profile: true
 - Cluster co-chair, INFORMS Computing Society (ICS), *[2019 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2019/#_gl=1*3owtft*_gcl_au*MTEwODI4NDgxNi4xNjk4NzYwOTg2)*, 2019
 - Co-chair, *[Workshop on Constraint Solving and Special Purpose Hardware Architectures](https://sites.google.com/view/cphardware2019/) at the 25th International Conference on Principles and Practice of Constraint Programming*, 2019
 - Program committee member, *[2017 Mixed Integer Programming (MIP) Workshop](https://web.archive.org/web/20220709054916/https://sites.google.com/site/mipworkshop2017/home)*, 2017
-
-## Professional Society Service
-- Council member, *Mathematical Optimization Society*, 2024-present
-- Chair, *INFORMS Computing Society (ICS)*, 2026-2027
-- Vice-Chair, *INFORMS Computing Society (ICS)*, 2024-2025
-- Treasurer, *COSP (the elected board of Stochastic Programming Society)*, 2025-Present
-- Committee member, *COSP (the elected board of Stochastic Programming Society)*, 2023-2025
-- Committee member, *INFORMS Journal on Optimization Editor-in-Chief Search*, 2024
-- Vice Chair, Integer and Discrete Optimization, *INFORMS Optimization Society (IOS)*, 2020-2021
-
-## Review Committees
-- Chair, *INFORMS Optimization Society (IOS) Young Researcher Award*, 2025
-- Committee member, *INFORMS HAS Student Paper Competition*, 2025
-- Committee member, *INFORMS Optimization Society (IOS) Young Researcher Award*, 2024
-- Committee member, *INFORMS Computing Society (ICS) Distinguished Service Award*, 2024
-- Committee member, *INFORMS George Nicholson Student Paper Competition*, 2024-2025
-- Committee member, *INFORMS Optimization Society Student Paper Prize*, 2023
-- Reviewer, *CORS Open Student Paper Competition*, 2022
-- Committee member, *INFORMS Computing Society (ICS) Student Paper Prize*, 2021
-- Reviewer, *CORS Open Student Paper Competition*, 2021
-- Judge, *INFORMS Poster Competition*, 2021
