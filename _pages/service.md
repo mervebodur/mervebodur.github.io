@@ -25,7 +25,7 @@ author_profile: true
 - Cluster chair, INFORMS Computing Society (ICS), INFORMS Annual Meeting, *[2025](https://meetings.informs.org/wordpress/annual/)*, *[2024](https://meetings.informs.org/wordpress/seattle2024/)*
 - Scientific committee member, *[XVI Workshop on Global Optimization](https://sites.google.com/view/stogo25/)*, 2025
 - Organizing committee member, *[18th  INFORMS Computing Society (ICS) Conference](https://sites.google.com/view/ics-2025/)*, 2025
-- Co-organizer, Discrete Stochastic Programming stream of the Optimization under Uncertainty cluster, *[25th International Symposium on Mathematical Programming (ISMP)](https://ismp2024.gerad.ca/)*, 2024
+- Co-organizer, Discrete Stochastic Programming stream, *[25th International Symposium on Mathematical Programming (ISMP)](https://ismp2024.gerad.ca/)*, 2024
 - Organizing committee member, *[Workshop on Quantum Computing and Operations Research](https://sites.google.com/view/qcor22/home)*, 2022
 - Cluster co-chair, Big Data Analytics and Optimization, *[CORS-INFORMS International Conference](https://meetings.informs.org/wordpress/2022international/)*, 2022
 - Program committee member, *[International Symposium on Combinatorial Optimization (ISCO)](https://isco2022.sciencesconf.org)*, 2022
