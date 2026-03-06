@@ -25,9 +25,9 @@ author_profile: true
 <!-- - **Referee**: Mathematical Programming, Operations Research, Management Science, Mathematics of Operations Research, Manufacturing and Service Operations Management, Production and Operations Management, INFORMS Journal on Computing, Mathematical Programming Computation, Transportation Science, European Journal of Operational Research, IISE Transactions, INFORMS Journal on Optimization, Journal of Optimization Theory and Applications and others. -->
 
 ## Professional Society Service
-- Council member, *Mathematical Optimization Society*, 2024-present
 - Chair, *INFORMS Computing Society (ICS)*, 2026-2027
 - Vice-Chair, *INFORMS Computing Society (ICS)*, 2024-2025
+- Council member, *Mathematical Optimization Society*, 2024-present
 - Treasurer, *COSP (the elected board of Stochastic Programming Society)*, 2025-Present
 - Committee member, *COSP (the elected board of Stochastic Programming Society)*, 2023-2025
 - Committee member, *INFORMS Journal on Optimization Editor-in-Chief Search*, 2024
