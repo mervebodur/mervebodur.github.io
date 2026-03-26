@@ -12,8 +12,6 @@ author_profile: true
 ## Preprints
 1. **A Novel Adaptive Testing Scheme for Multi-disease Testing**\
 D. Bish, E. Bish, M. Bodur, and B. Gorgulu (2025)
-1. **Joint Matching and Pricing for Crowd-shipping with In-store Customers** [[link]](https://arxiv.org/pdf/2507.01749)\
-A. Dehghan, M. Cevik, M. Bodur, and B. Ghaddar (2025)
 1. **Incorporating Service Reliability in Multi-depot Vehicle Scheduling** [[link]](https://arxiv.org/pdf/2407.00836)\
 M.P. Castro, M. Bodur, and A. Shalaby (2024)
 1. **Two-stage and Lagrangian Dual Decision Rules for Multistage Adaptive Robust Optimization** [[link]](https://arxiv.org/pdf/2305.06190)\
@@ -28,6 +26,9 @@ C. Riascos, M. Bodur, and D. Aleman (2023)
 1. **Network Flow Models for Robust Binary Optimization with Selective Adaptability** [[link]](https://arxiv.org/pdf/2403.19471)\
 M. Bodur, T. Chan, and I. Zhu\
 *INFORMS Journal on Computing* (2026)
+1. **Joint Matching and Pricing for Crowd-shipping with In-store Customers** [[link]](https://arxiv.org/pdf/2507.01749)\
+A. Dehghan, M. Cevik, M. Bodur, and B. Ghaddar\
+*INFOR: Information Systems and Operational Research* (2026)
 1. **Neural Approximate Dynamic Programming for the Ultra-fast Order Dispatching Problem** [[link]](https://optimization-online.org/wp-content/uploads/2023/11/neuradp_dispatching.pdf)\
 A. Dehghan, M. Cevik, and M. Bodur\
 *IISE Transactions* (2026)
