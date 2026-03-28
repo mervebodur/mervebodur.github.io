@@ -40,9 +40,8 @@ author_profile: true
 - Committee member, *INFORMS Computing Society (ICS) Distinguished Service Award*, 2024
 - Committee member, *INFORMS George Nicholson Student Paper Competition*, 2024-2025
 - Committee member, *INFORMS Optimization Society Student Paper Prize*, 2023
-- Reviewer, *CORS Open Student Paper Competition*, 2022
 - Committee member, *INFORMS Computing Society (ICS) Student Paper Prize*, 2021
-- Reviewer, *CORS Open Student Paper Competition*, 2021
+- Reviewer, *CORS Open Student Paper Competition*, 2021-2022
 - Judge, *INFORMS Poster Competition*, 2021
 
 ## Conferences
