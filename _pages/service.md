@@ -7,8 +7,6 @@ author_profile: true
 
 ## Editorial Service
 
-- [INFORMS Journal on Data Science](https://pubsonline.informs.org/journal/ijds)\
-*Guest Editor*, 2025-2026
 - [Manufacturing & Service Operations Management](https://pubsonline.informs.org/journal/msom)\
 *Associate Editor*, 2026-present
 - [Mathematical Programming Computation](https://link.springer.com/journal/12532)\
@@ -21,6 +19,8 @@ author_profile: true
 *Associate Editor*, 2024-present
 - [INFOR: Information Systems and Operational Research](https://www.tandfonline.com/journals/tinf20)\
 *Associate Editor*, 2021-present
+- [INFORMS Journal on Data Science](https://pubsonline.informs.org/journal/ijds)\
+*Guest Editor*, 2025-2026
 
 <!-- - **Referee**: Mathematical Programming, Operations Research, Management Science, Mathematics of Operations Research, Manufacturing and Service Operations Management, Production and Operations Management, INFORMS Journal on Computing, Mathematical Programming Computation, Transportation Science, European Journal of Operational Research, IISE Transactions, INFORMS Journal on Optimization, Journal of Optimization Theory and Applications and others. -->
 
