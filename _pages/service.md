@@ -7,10 +7,10 @@ author_profile: true
 
 ## Editorial Service
 
-- [Mathematical Programming](https://link.springer.com/journal/10107)\
-*Associate Editor*, 2026-present
 - [Optima](https://www.mathopt.org/pubs/optima)\
 *Editor*, 2026-present
+- [Mathematical Programming](https://link.springer.com/journal/10107)\
+*Associate Editor*, 2026-present
 - [Operations Research](https://pubsonline.informs.org/journal/opre)\
 *Associate Editor*, 2026-present
 - [Manufacturing & Service Operations Management](https://pubsonline.informs.org/journal/msom)\
