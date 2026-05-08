@@ -10,6 +10,8 @@ author_profile: true
 - *Application Areas*: Decision Making Under Uncertainty, Healthcare, Transportation, Telecommunication, Power Systems, Service Systems Staffing and Scheduling, Networks
 
 ## Preprints
+1. **Approximate Dynamic Programming for Real-time Assignment of Extraboard Transit Operators** [[link]](https://arxiv.org/pdf/2605.04511)\
+J. Song, A. Shalaby, and M. Bodur (2026)
 1. **Fairness-aware Strategic Design of Station-based Electric Car-Sharing Systems** [[link]](https://arxiv.org/pdf/2604.11732)\
 J. Zhou, Z. Sherkat-Masoumi, and M. Bodur (2026)
 1. **A Novel Adaptive Testing Scheme for Multi-disease Testing**\
