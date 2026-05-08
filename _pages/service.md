@@ -24,7 +24,7 @@ author_profile: true
 - [Omega](https://www.sciencedirect.com/journal/omega)\
 *Associate Editor*, 2024-present
 - [INFOR: Information Systems and Operational Research](https://www.tandfonline.com/journals/tinf20)\
-*Associate Editor*, 2021-present
+*Associate Editor*, 2021-2026
 - [INFORMS Journal on Data Science](https://pubsonline.informs.org/journal/ijds)\
 *Guest Editor*, 2025-2026
 
