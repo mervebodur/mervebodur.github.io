@@ -12,8 +12,6 @@ author_profile: true
 ## Preprints
 1. **Approximate Dynamic Programming for Real-time Assignment of Extraboard Transit Operators** [[link]](https://arxiv.org/pdf/2605.04511)\
 J. Song, A. Shalaby, and M. Bodur (2026)
-1. **Fairness-aware Strategic Design of Station-based Electric Car-Sharing Systems** [[link]](https://arxiv.org/pdf/2604.11732)\
-J. Zhou, Z. Sherkat-Masoumi, and M. Bodur (2026)
 1. **A Novel Adaptive Testing Scheme for Multi-disease Testing**\
 D. Bish, E. Bish, M. Bodur, and B. Gorgulu (2025)
 1. **Incorporating Service Reliability in Multi-depot Vehicle Scheduling** [[link]](https://arxiv.org/pdf/2407.00836)\
@@ -27,13 +25,16 @@ C. Riascos, M. Bodur, and D. Aleman (2023)
 {: reversed="reversed"}
 
 ## Journal Papers
-1. **Network Flow Models for Robust Binary Optimization with Selective Adaptability** [[link]](https://arxiv.org/pdf/2403.19471)\
+1. **Fairness-aware Strategic Design of Station-based Electric Car-Sharing Systems** [[link]](https://arxiv.org/pdf/2604.11732)\
+J. Zhou, Z. Sherkat-Masoumi, and M. Bodur\
+*Transportation Research Part C* (2026)
+1. **Network Flow Models for Robust Binary Optimization with Selective Adaptability** [[link]](https://pubsonline.informs.org/doi/full/10.1287/ijoc.2024.0718)\
 M. Bodur, T. Chan, and I. Zhu\
 *INFORMS Journal on Computing* (2026)
-1. **Joint Matching and Pricing for Crowd-shipping with In-store Customers** [[link]](https://arxiv.org/pdf/2507.01749)\
+1. **Joint Matching and Pricing for Crowd-shipping with In-store Customers** [[link]](https://www.tandfonline.com/doi/full/10.1080/03155986.2026.2659467)\
 A. Dehghan, M. Cevik, M. Bodur, and B. Ghaddar\
 *INFOR: Information Systems and Operational Research* (2026)
-1. **Neural Approximate Dynamic Programming for the Ultra-fast Order Dispatching Problem** [[link]](https://optimization-online.org/wp-content/uploads/2023/11/neuradp_dispatching.pdf)\
+1. **Neural Approximate Dynamic Programming for the Ultra-fast Order Dispatching Problem** [[link]](https://www.tandfonline.com/doi/full/10.1080/24725854.2026.2640217)\
 A. Dehghan, M. Cevik, and M. Bodur\
 *IISE Transactions* (2026)
 1. **Stochastic Dynamic Lot-sizing with Supplier-Driven Substitution and Service Level Constraints** [[link]](https://www.sciencedirect.com/science/article/pii/S0377221726000056)\
