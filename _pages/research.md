@@ -12,8 +12,6 @@ author_profile: true
 ## Preprints
 1. **Approximate Dynamic Programming for Real-time Assignment of Extraboard Transit Operators** [[link]](https://arxiv.org/pdf/2605.04511)\
 J. Song, A. Shalaby, and M. Bodur (2026)
-1. **A Novel Adaptive Testing Scheme for Multi-disease Testing**\
-D. Bish, E. Bish, M. Bodur, and B. Gorgulu (2025)
 1. **Incorporating Service Reliability in Multi-depot Vehicle Scheduling** [[link]](https://arxiv.org/pdf/2407.00836)\
 M.P. Castro, M. Bodur, and A. Shalaby (2024)
 1. **Two-stage and Lagrangian Dual Decision Rules for Multistage Adaptive Robust Optimization** [[link]](https://arxiv.org/pdf/2305.06190)\
@@ -25,6 +23,9 @@ C. Riascos, M. Bodur, and D. Aleman (2023)
 {: reversed="reversed"}
 
 ## Journal Papers
+1. **A Novel Adaptive Testing Scheme for Multi-disease Testing**\
+D. Bish, E. Bish, M. Bodur, and B. Gorgulu\
+*Operations Research* (2026)
 1. **Fairness-aware Strategic Design of Station-based Electric Car-Sharing Systems** [[link]](https://arxiv.org/pdf/2604.11732)\
 J. Zhou, Z. Sherkat-Masoumi, and M. Bodur\
 *Transportation Research Part C* (2026)
