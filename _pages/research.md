@@ -10,6 +10,10 @@ author_profile: true
 - *Application Areas*: Decision Making Under Uncertainty, Healthcare, Transportation, Telecommunication, Power Systems, Service Systems Staffing and Scheduling, Networks
 
 ## Preprints
+1. **Evacuation Planning for Disaster Preparedness: An Adaptive RobustOptimization Approach** [[link]](https://arxiv.org/pdf/2608.04225)\
+J. Kim, M. Bodur, M. Mayorga, and O.Y. Ozaltin (2026)
+1. **Dynamic Dispatching for Time-Sensitive Blood Sample Collection and Delivery** [[link]](https://arxiv.org/abs/2608.04275)\
+A. Dehghan, A. Alnaggar, M. Cevik, and M. Bodur (2026)
 1. **Approximate Dynamic Programming for Real-time Assignment of Extraboard Transit Operators** [[link]](https://arxiv.org/pdf/2605.04511)\
 J. Song, A. Shalaby, and M. Bodur (2026)
 1. **Incorporating Service Reliability in Multi-depot Vehicle Scheduling** [[link]](https://arxiv.org/pdf/2407.00836)\
