@@ -8,13 +8,15 @@ author_profile: true
 ## Selected Awards and Honors
 - *Winner*, INFORMS PSOR Best Paper Competition (2025)
 - *Early Researcher Award*, Ontario Ministry of Colleges and Universities (2023)
-- *Finalist*, MCDM Junior Researcher Best Paper Award Competition (2022)
+- *Finalist*, INFORMS MCDM Junior Researcher Best Paper Award Competition (2022)
 - *Early Career Teaching Award*, Mechanical and Industrial Engineering, University of Toronto (2019)
 - *Connaught New Researcher Award*, University of Toronto (2019-2020)
 - *Dean's Spark Professorship*, University of Toronto (2018-2021)
 - *Ph.D. Fellowship*, IBM (2014)
 
 ## Invited Plenaries, Keynotes and Tutorials
+- Semi-plenary, *Decision Diagrams for Discrete Decision-Making Under Uncertainty and Beyond*\
+**International Conference on Operations Research (OR 2026)**, Passau, Germany, 2026
 - *Methodological Advances in Two-stage Stochastic Programming*,\
 *Recent Advances in Solving Multistage Stochastic Mixed-integer Programs*\
 **51st Conference on the Mathematics of Operations Research**, Soesterberg, Netherlands, January 2026.
