@@ -40,8 +40,9 @@ author_profile: true
 - Vice Chair, Integer and Discrete Optimization, *INFORMS Optimization Society (IOS)*, 2020-2021
 
 ## Review Committees
+- Co-Chair, *INFORMS Public and Societal Operations Research (PSOR) Best Paper Award*, 2026
 - Chair, *INFORMS Optimization Society (IOS) Young Researcher Award*, 2025
-- Committee member, *INFORMS HAS Student Paper Competition*, 2025
+- Committee member, *INFORMS HAS Student Paper Competition*, 2025-2026
 - Committee member, *INFORMS Optimization Society (IOS) Young Researcher Award*, 2024
 - Committee member, *INFORMS Computing Society (ICS) Distinguished Service Award*, 2024
 - Committee member, *INFORMS George Nicholson Student Paper Competition*, 2024-2025
