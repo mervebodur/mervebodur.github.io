@@ -27,10 +27,10 @@ C. Riascos, M. Bodur, and D. Aleman (2023)
 {: reversed="reversed"}
 
 ## Journal Papers
-1. **A Novel Adaptive Testing Scheme for Multi-disease Testing**\
+1. **A Novel Adaptive Testing Scheme for Multi-disease Testing** [[link]](https://pubsonline.informs.org/doi/epdf/10.1287/opre.2025.2006)\
 D. Bish, E. Bish, M. Bodur, and B. Gorgulu\
 *Operations Research* (2026)
-1. **Fairness-aware Strategic Design of Station-based Electric Car-Sharing Systems** [[link]](https://arxiv.org/pdf/2604.11732)\
+1. **Fairness-aware Strategic Design of Station-based Electric Car-Sharing Systems** [[link]](https://www.sciencedirect.com/science/article/pii/S0968090X26003268)\
 J. Zhou, Z. Sherkat-Masoumi, and M. Bodur\
 *Transportation Research Part C* (2026)
 1. **Network Flow Models for Robust Binary Optimization with Selective Adaptability** [[link]](https://pubsonline.informs.org/doi/full/10.1287/ijoc.2024.0718)\
