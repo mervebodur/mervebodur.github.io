@@ -16,7 +16,7 @@ author_profile: true
 
 ## Invited Plenaries, Keynotes and Tutorials
 - Semi-plenary, *Decision Diagrams for Discrete Decision-Making Under Uncertainty and Beyond*\
-**International Conference on Operations Research (OR 2026)**, Passau, Germany, 2026
+**International Conference on Operations Research (OR 2026)**, Passau, Germany, September, 2026
 - *Methodological Advances in Two-stage Stochastic Programming*,\
 *Recent Advances in Solving Multistage Stochastic Mixed-integer Programs*\
 **51st Conference on the Mathematics of Operations Research**, Soesterberg, Netherlands, January 2026.
