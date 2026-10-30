@@ -25,7 +25,7 @@ author_profile: true
 *Associate Editor*, 2024-present
 
 ### Other Editorial Service
-- [Optima (MOS News Letter)](https://www.mathopt.org/pubs/optima)\
+- [Optima (MOS Newsletter)](https://www.mathopt.org/pubs/optima)\
 *Editor*, 2026-present
 
 ### Past Editorial Service
