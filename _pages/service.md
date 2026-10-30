@@ -7,6 +7,8 @@ author_profile: true
 
 ## Editorial Service
 
+- [EURO Journal on Computational Optimization](https://www.sciencedirect.com/journal/euro-journal-on-computational-optimization)\
+*Editor-in-Chief*, 2027-
 - [Optima](https://www.mathopt.org/pubs/optima)\
 *Editor*, 2026-present
 - [Mathematical Programming](https://link.springer.com/journal/10107)\
