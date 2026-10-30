@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Reader (Associate Professor) in [Operational Research](https://www.maths.ed.ac.uk/school-of-mathematics/research/data-decisions/optimization-and-operational-research), [School of Mathematics](https://www.maths.ed.ac.uk/school-of-mathematics), [The University of Edinburgh](https://www.ed.ac.uk/). My research mainly focuses on optimization under uncertainty. I will be serving as the Editor-in-Chief of [EURO Journal on Computational Optimization (EJCO)](https://www.sciencedirect.com/journal/euro-journal-on-computational-optimization) starting January 1, 2027.
+I am a Reader (Associate Professor) in [Operational Research](https://www.maths.ed.ac.uk/school-of-mathematics/research/data-decisions/optimization-and-operational-research), [School of Mathematics](https://www.maths.ed.ac.uk/school-of-mathematics), [The University of Edinburgh](https://www.ed.ac.uk/). My research mainly focuses on optimization under uncertainty. 
+
+I will be serving as the Editor-in-Chief of [EURO Journal on Computational Optimization (EJCO)](https://www.sciencedirect.com/journal/euro-journal-on-computational-optimization) starting January 1, 2027.
 
 ### Education
 - Ph.D., [Industrial and Systems Engineering](https://engineering.wisc.edu/departments/industrial-systems-engineering/), [UW-Madison](https://www.wisc.edu/), 2015
