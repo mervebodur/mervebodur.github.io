@@ -9,8 +9,6 @@ author_profile: true
 
 - [EURO Journal on Computational Optimization](https://www.sciencedirect.com/journal/euro-journal-on-computational-optimization)\
 *Editor-in-Chief*, 2027-
-- [Optima](https://www.mathopt.org/pubs/optima)\
-*Editor*, 2026-present
 - [Mathematical Programming](https://link.springer.com/journal/10107)\
 *Associate Editor*, 2026-present
 - [Operations Research](https://pubsonline.informs.org/journal/opre)\
@@ -25,6 +23,12 @@ author_profile: true
 *Associate Editor*, 2024-present
 - [Omega](https://www.sciencedirect.com/journal/omega)\
 *Associate Editor*, 2024-present
+
+### Other Editorial Service
+- [Optima (MOS News Letter)](https://www.mathopt.org/pubs/optima)\
+*Editor*, 2026-present
+
+### Past Editorial Service
 - [INFOR: Information Systems and Operational Research](https://www.tandfonline.com/journals/tinf20)\
 *Associate Editor*, 2021-2026
 - [INFORMS Journal on Data Science](https://pubsonline.informs.org/journal/ijds)\
