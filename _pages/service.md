@@ -21,8 +21,8 @@ author_profile: true
 - [Optima (MOS Newsletter)](https://www.mathopt.org/pubs/optima), *Editor*, 2026-present
 
 ### Past Editorial Service
-- [INFOR: Information Systems and Operational Research](https://www.tandfonline.com/journals/tinf20), *Associate Editor*, 2021-2026
 - [INFORMS Journal on Data Science](https://pubsonline.informs.org/journal/ijds), *Guest Editor*, 2025-2026
+- [INFOR: Information Systems and Operational Research](https://www.tandfonline.com/journals/tinf20), *Associate Editor*, 2021-2026
 
 <!-- - **Referee**: Mathematical Programming, Operations Research, Management Science, Mathematics of Operations Research, Manufacturing and Service Operations Management, Production and Operations Management, INFORMS Journal on Computing, Mathematical Programming Computation, Transportation Science, European Journal of Operational Research, IISE Transactions, INFORMS Journal on Optimization, Journal of Optimization Theory and Applications and others. -->
 
