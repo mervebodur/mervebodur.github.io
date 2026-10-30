@@ -7,8 +7,8 @@ author_profile: true
 
 ## Editorial Service
 
-- [EURO Journal on Computational Optimization](https://www.sciencedirect.com/journal/euro-journal-on-computational-optimization)\
-*Editor-in-Chief*, 2027-
+%- [EURO Journal on Computational Optimization](https://www.sciencedirect.com/journal/euro-journal-on-computational-optimization)\
+%*Editor-in-Chief*, 2027-
 - [Mathematical Programming](https://link.springer.com/journal/10107)\
 *Associate Editor*, 2026-present
 - [Operations Research](https://pubsonline.informs.org/journal/opre)\
