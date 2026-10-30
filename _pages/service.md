@@ -9,30 +9,20 @@ author_profile: true
 
 <!-- - [EURO Journal on Computational Optimization](https://www.sciencedirect.com/journal/euro-journal-on-computational-optimization)\ -->
 <!-- *Editor-in-Chief*, 2027- -->
-- [Mathematical Programming](https://link.springer.com/journal/10107)\
-*Associate Editor*, 2026-present
-- [Operations Research](https://pubsonline.informs.org/journal/opre)\
-*Associate Editor*, 2026-present
-- [Manufacturing & Service Operations Management](https://pubsonline.informs.org/journal/msom)\
-*Associate Editor*, 2026-present
-- [Mathematical Programming Computation](https://link.springer.com/journal/12532)\
-*Associate Editor*, 2026-present
-- [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc)\
-*Associate Editor*, 2025-present
-- [Operations Research Letters](https://www.sciencedirect.com/journal/operations-research-letters)\
-*Associate Editor*, 2024-present
-- [Omega](https://www.sciencedirect.com/journal/omega)\
-*Associate Editor*, 2024-present
+- [Mathematical Programming](https://link.springer.com/journal/10107), *Associate Editor*, 2026-present
+- [Operations Research](https://pubsonline.informs.org/journal/opre), *Associate Editor*, 2026-present
+- [Manufacturing & Service Operations Management](https://pubsonline.informs.org/journal/msom), *Associate Editor*, 2026-present
+- [Mathematical Programming Computation](https://link.springer.com/journal/12532), *Associate Editor*, 2026-present
+- [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc), *Associate Editor*, 2025-present
+- [Operations Research Letters](https://www.sciencedirect.com/journal/operations-research-letters), *Associate Editor*, 2024-present
+- [Omega](https://www.sciencedirect.com/journal/omega), *Associate Editor*, 2024-present
 
 ### Other Editorial Service
-- [Optima (MOS Newsletter)](https://www.mathopt.org/pubs/optima)\
-*Editor*, 2026-present
+- [Optima (MOS Newsletter)](https://www.mathopt.org/pubs/optima), *Editor*, 2026-present
 
 ### Past Editorial Service
-- [INFOR: Information Systems and Operational Research](https://www.tandfonline.com/journals/tinf20)\
-*Associate Editor*, 2021-2026
-- [INFORMS Journal on Data Science](https://pubsonline.informs.org/journal/ijds)\
-*Guest Editor*, 2025-2026
+- [INFOR: Information Systems and Operational Research](https://www.tandfonline.com/journals/tinf20), *Associate Editor*, 2021-2026
+- [INFORMS Journal on Data Science](https://pubsonline.informs.org/journal/ijds), *Guest Editor*, 2025-2026
 
 <!-- - **Referee**: Mathematical Programming, Operations Research, Management Science, Mathematics of Operations Research, Manufacturing and Service Operations Management, Production and Operations Management, INFORMS Journal on Computing, Mathematical Programming Computation, Transportation Science, European Journal of Operational Research, IISE Transactions, INFORMS Journal on Optimization, Journal of Optimization Theory and Applications and others. -->
 
